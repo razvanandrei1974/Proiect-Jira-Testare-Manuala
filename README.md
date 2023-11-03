@@ -75,3 +75,6 @@ Test deliverables
 
 ![Daily Report ](https://github.com/razvanandrei1974/TMTA12/blob/0005942ee13ef51cc70a87e246038068a32bb5e2/DAILY%20REPORT.jpg)
 
+Link catre fisier [Testcase results]()
+link pdf din repository
+
