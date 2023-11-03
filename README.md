@@ -49,3 +49,28 @@ Specificații cerințe software
 ##### Proiectul Guru99 Bank își propune să ofere facilități bancare nete clienților săi.
 ##### Această versiune va avea caracteristici limitate. De-a lungul unei perioade de timp, noi și noi funcționalități vor fi adăugate pe site.
 
+Test deliverables
+
+  Test plan - link to test plan
+  Test conditions 
+ -  we will use prod environment
+ - testing using new accounts and older account is necessary
+- test conditions will be exported from Jira and added here 
+  Test cases
+ - link to test cases / export from Jira with all the test cases written 
+  Daily test summary report
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) 
+  Traceability matrix
+ - link to traceability matrix
+  Test case results
+ - link to test case results
+  Bugs report
+ - link to bugs report
+  Test completion report
+ - link to test completion report
+  Schedule
+ - we have 10 days of testing
+ - we have 30 test cases 
+ - in order to finish the regression run we would need to run an ~ of 3 tests/day
+
+
