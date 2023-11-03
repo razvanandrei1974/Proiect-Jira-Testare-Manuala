@@ -73,7 +73,7 @@ Test deliverables
  - we have 30 test cases 
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
-![Daily Report ](https://github.com/razvanandrei1974/TMTA12/blob/994f22cb89dc1ea77e47bf5cf1643ddf4d613de7/RUT-TMTA12.pdf)
+![Link PDF Jira](https://github.com/razvanandrei1974/TMTA12/blob/994f22cb89dc1ea77e47bf5cf1643ddf4d613de7/RUT-TMTA12.pdf)
 
 Link catre fisier [Testcase results]()
 link pdf din repository
