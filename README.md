@@ -73,4 +73,5 @@ Test deliverables
  - we have 30 test cases 
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
+![Daily Report (https://github.com/razvanandrei1974/TMTA12/blob/main/DAILY%20REPORT.jpg)https://github.com/razvanandrei1974/TMTA12/blob/main/DAILY%20REPORT.jpg)
 
