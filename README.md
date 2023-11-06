@@ -517,10 +517,10 @@ Balance Enquiry
 -F49 If account no is invalid, System displays an error
 
 ## Daily Report 
-[Daily Report] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
+[Daily Report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
 
 ## Traceability Matrix
-[Traceability Matrix] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
+[Traceability Matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
 
 
 ## 3.4 Classes / Objects
