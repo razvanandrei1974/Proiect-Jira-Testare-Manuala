@@ -149,41 +149,37 @@ Following features/modules will be available to these 2 different roles
 |Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
 
 
-
-
-
-2.1 External Interface Requirements
-2.1.1 User Interfaces
+## 2.1 External Interface Requirements
+### 2.1.1 User Interfaces
 None
-2.1.2 Hardware Interfaces
+### 2.1.2 Hardware Interfaces
 None
-2.1.3 Software Interfaces
+### 2.1.3 Software Interfaces
 None
-2.1.4 Communications Interfaces
+### 2.1.4 Communications Interfaces
 None
-3.1 Front End Details
+## 3.1 Front End Details
 This section describes the Front end of Guru99 Bank. 
 It also lists a few use cases to describe the functioning of the system
-
 
 Following is a list of module wise fields
 
 
-Fund Transfer
+## Fund Transfer
 ●	Payers account no
 ●	Payees account no
 ●	Amount
 ●	Submit
 ●	Reset
 
-Change Password
+## Change Password
 ●	Old Password
 ●	New Password
 ●	Confirm Password
 ●	Submit
 ●	Reset
 
-Balance enquiry
+## Balance enquiry
 ●	Account No
 ●	Submit
 ●	Reset
