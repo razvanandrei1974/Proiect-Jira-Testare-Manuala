@@ -165,12 +165,12 @@ It also lists a few use cases to describe the functioning of the system
 Following is a list of module wise fields
 
 
-## Fund Transfer
-●	Payers account no
-●	Payees account no
-●	Amount
-●	Submit
-●	Reset
+## _Fund Transfer_
+-	Payers account no
+*	Payees account no
++	Amount
+-	Submit
+*	Reset
 
 ## Change Password
 ●	Old Password
