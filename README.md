@@ -20,28 +20,29 @@ Specificații cerințe software
 
 
  
-#### 1. Introducere
-#### 1.1 Scop
-#### 1.2 Domeniu de aplicare
-#### 1.3 Definiții, acronime și abrevieri
-#### 1.4 Referințe
-#### 2. Cerințe specifice
-#### 2.1 Cerințe privind interfața externă
-#### 2.1.1 Interfețe utilizator
-#### 2.1.2 Interfețe hardware
-#### 2.1.3 Interfețe software
-#### 2.1.4 Interfețe de comunicare
-#### 3.1 Detalii frontale
-#### 3.2 Cerințe tehnice
-#### 3.3 Validări funcționale
-#### 3.4 Clase / Obiecte
-#### 3.5 Cerințe nefuncționale
-#### 3.6 Cerințe inverse
-#### 3.7 Constrângeri de proiectare
-#### 3.8 Cerințe logice privind baza de date
-#### 3.9 Alte cerințe
-#### 4. Modele de analiză
-#### 5. Procesul de gestionare a schimbărilor
+1. Introduction
+1.1 Purpose
+1.2 Scope
+1.3 Definitions, Acronyms, and Abbreviations
+1.4 References
+2. Specific Requirements
+2.1 External Interface Requirements
+2.1.1 User Interfaces
+2.1.2 Hardware Interfaces
+2.1.3 Software Interfaces
+2.1.4 Communications Interfaces
+3.1 Front End Details
+3.2 Technical Requirements
+3.3 Functional validations
+3.4 Classes / Objects
+3.5 Non-Functional Requirements
+3.6 Inverse Requirements
+3.7 Design Constraints
+3.8 Logical Database Requirements
+3.9 Other Requirements
+4. Analysis Models
+5. Change Management Process
+
 
 
 # 1.Introducere
