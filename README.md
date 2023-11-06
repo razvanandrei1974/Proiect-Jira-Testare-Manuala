@@ -126,7 +126,14 @@ Login & Logout
 | Manager | Customer   | 
 | :-----: | :---: | 
 |New Customer| Balance enquiry   | 
-| 06.11.2023 | v1.1  |
+| Edit Customer | Fund Transfer  |
+|Delete Customer| Mini Statement   | 
+| New Account | Customized Statement  |
+
+
+
+
+
 
 ## Description of the modules
 
