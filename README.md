@@ -101,27 +101,11 @@ C	Customer
 ### 1.4 References
 Nil
 
-## 2. Specific Requirements
+# 2. Specific Requirements
 The Guru99 Bank will have 2 roles
-1.	Manager
-2.	Customer
+### 1.	Manager
+### 2.	Customer
 Following features/modules will be available to these 2 different roles
-
-## Manager	Customer
-New Customer	Balance enquiry
-Edit Customer	Fund Transfer
-Delete Customer	Mini Statement
-New Account	Customized Statement
-Edit Account	Change Password
-Delete Account	Login & Logout
-Deposit	
-Withdrawal	 
-Fund Transfer	 
-Change Password	 
-Balance Enquiry	 
-Mini Statement	 
-Customized Statement	 
-Login & Logout	 
 
 | Manager | Customer   | 
 | :-----: | :---: | 
@@ -143,6 +127,14 @@ Login & Logout
 
 
 ## Description of the modules
+
+| Module Name | Aplicabile Rules   | Description   |
+| :-----: | :---: | :---------------------------:  |
+|Balance enquiry|  Manager customer  |Customer: A customer can have multiple bank accounts. He can view balance of his accounts only Manager: A manager can view balance of all the customers who come under his supervision|
+				   							
+ 
+
+
 
 
 Module Name	Applicable
