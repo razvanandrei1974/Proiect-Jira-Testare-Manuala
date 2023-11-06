@@ -522,6 +522,9 @@ Balance Enquiry
 ## Traceability Matrix
 [Traceability Matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
 
+## Dasboard JIRA
+[Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
+
 
 ## 3.4 Classes / Objects
  
