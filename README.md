@@ -19,6 +19,8 @@ Specificații cerințe software
 | 06.11.2023 | v1.1  | -   | - |
 
 
+
+## Table of contens
  
 #### 1. Introduction
 #### 1.1 Purpose
@@ -42,6 +44,8 @@ Specificații cerințe software
 #### 3.9 Other Requirements
 #### 4. Analysis Models
 #### 5. Change Management Process
+
+
 
 
 
