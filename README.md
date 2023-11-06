@@ -173,104 +173,104 @@ Following is a list of module wise fields
 *	Reset
 
 ## Change Password
-●	Old Password
-●	New Password
-●	Confirm Password
-●	Submit
-●	Reset
+-	Old Password
+*	New Password
++	Confirm Password
+-	Submit
+*	Reset
 
-## Balance enquiry
-●	Account No
-●	Submit
-●	Reset
+## _Balance enquiry_
+-	Account No
+*	Submit
++	Reset
 
-Mini Statement
-●	Account No
-●	Submit
-●	Reset
+## _Mini Statement_
+-	Account No
+*	Submit
++	Reset
 
-Customized Statement
-●	Account No
-●	From Date
-●	To Date
-●	Amount Lower Limit
-●	Number Of Transaction
-●	Submit
-●	Reset
+## _Customized Statement_
+-	Account No
+*	From Date
++	To Date
+-	Amount Lower Limit
+*	Number Of Transaction
++	Submit
+-	Reset
 
-New Customer
-●	Customer Name
-●	Gender
-●	Date of Birth
-●	Address
-●	City
-●	State
-●	PIN
-●	Telephone Number
-●	Email Id 
-●	Submit
-●	Reset
+## _New Customer_
+-	Customer Name
+*	Gender
++	Date of Birth
+-	Address
+*	City
++	State
+- PIN
+*	Telephone Number
++	Email Id 
+-	Submit
+*	Reset
 
-New Account
-●	Customer Id
-●	Account Type
-●	Initial deposit
-●	Submit
-●	Reset
+## _New Account-
+-	Customer Id
+*	Account Type
++	Initial deposit
+-	Submit
+*	Reset
 
 Deposit
-●	Account Number
-●	Amount Deposit
-●	Description
-●	Submit
-●	Reset
+-	Account Number
+*	Amount Deposit
++	Description
+-	Submit
+*	Reset
 
 Withdraw
-●	Account Number 
-●	Amount
-●	Description
-●	Submit
-●	Reset
+-	Account Number 
+*	Amount
++	Description
+-	Submit
+*	Reset
 
 Delete Customer
-●	Customer Id
-●	Submit
-●	Reset
+-	Customer Id
+*	Submit
++	Reset
 
 Edit Account
-●	Account Number
-●	Submit
-●	Reset
+-	Account Number
+*	Submit
++	Reset
 
 Form after submitting Edit Account
-●	Customer Id 
-●	Account Type (Drop Down - Saving or Current)
-●	Balance 
-●	Submit
-●	Reset
+-	Customer Id 
+*	Account Type (Drop Down - Saving or Current)
++	Balance 
+-	Submit
+*	Reset
 
 Delete Account
-●	Account Number
-●	Submit
-●	Reset
+-	Account Number
+*	Submit
++	Reset
 
 Edit Customer
-●	Customer Id
-●	Submit
-●	Reset
+-	Customer Id
+*	Submit
++	Reset
 
 Form after submitting Edit Customer
-●	Customer Name 
-●	Gender 
-●	Date of Birth
-●	Address
-●	City
-●	State
-●	PIN
-●	Telephone Number
-●	Email Id 
-●	Submit
-●	Reset
+-	Customer Name 
+*	Gender 
++	Date of Birth
+-	Address
+*	City
++	State
+-	PIN
+*	Telephone Number
++	Email Id 
+-	Submit
+*	Reset
 
 
 
