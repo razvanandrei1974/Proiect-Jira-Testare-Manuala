@@ -129,7 +129,8 @@ Login & Logout
 | Edit Customer | Fund Transfer  |
 |Delete Customer| Mini Statement   | 
 | New Account | Customized Statement  |
-
+|Edit Account| Change Password | 
+|Delete Account | Login & Logout  |
 
 
 
