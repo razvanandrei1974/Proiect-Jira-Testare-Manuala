@@ -520,7 +520,7 @@ Balance Enquiry
 [Daily Report] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
 
 ## Traceability Matrix
-[Traceability Matrix] (
+[Traceability Matrix] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
 
 
 ## 3.4 Classes / Objects
