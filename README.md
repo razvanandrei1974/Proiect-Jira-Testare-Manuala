@@ -277,10 +277,10 @@ Following is a list of module wise fields
 ## 3.2 Technical Requirements
 
 ### New Account
--T1    Customer Id - Customer ID is required
-*T2    Customer Id - Special character are not allowed
-+T3    Customer Id - Characters are not allowed
--T3.1 Customer Id - First character cannot have space
+- T1    Customer Id - Customer ID is required
+* T2    Customer Id - Special character are not allowed
++ T3    Customer Id - Characters are not allowed
+- T3.1 Customer Id - First character cannot have space
 
 ### New Customer
 -T4    Customer Name – Numbers are not allowed
