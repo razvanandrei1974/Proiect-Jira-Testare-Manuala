@@ -140,7 +140,8 @@ Following features/modules will be available to these 2 different roles
 |Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account.**Customer:** A customer can see mini-statement of only his “own” accounts. **Manager**: A manager can see ministatement of any account. |	 
 |Customized Statement|  Manager customer  |A customized statement allows you to filter and display transactions in an account based on date, transaction value Customer: A customer can see Customized- statement of only his “own” accounts Manager: A manager can see Customized -statement of any account |
 |Change Password|  Manager customer  |Customer: A customer can change password of only his account.Manager: A manager can change password of only his account. He cannot change passwords of his customers |
-|New Customer|  Manager customer  |Manager: A manager can add a new customer.Manager: A manager can edit details like address, email , telephone of a customer. |
+|New Customer|  Manager   |Manager: A manager can add a new customer.Manager: A manager can edit details like address, email , telephone of a customer. |
+|New Account|  Manager   |Currently system provides 2 types of accounts ●	Saving ●	Current A customer can have multiple saving accounts (one in his name , other in a joint name etc).He can have multiple current accounts for different companies he owns. Or he can have a multiple current and saving accounts. Manager: A manager can add a new account for an existing customer.  |
 
 
 Module Name	Applicable
