@@ -80,7 +80,7 @@ Test deliverables
 
 ## Test Cases JIRA for Guru99 aplication- Menu New Customer, New Account and Deposit
 
-
+[Test cases] (
 
 
 link pdf din repository
