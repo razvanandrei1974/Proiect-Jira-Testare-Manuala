@@ -397,10 +397,10 @@ It also lists a few use cases to describe the functioning of the system
 
 ## Test Cases JIRA for Guru99 Aplication- Menu New Customer, New Account and Deposit
 
-[Test cases] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf) 
+[Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf) 
 
 ## Bugs Report from Jira for Guru99 Aplication 
-[Bugs report] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
+[Bugs report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
 
 
 # 3.3 Functional validations
