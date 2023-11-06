@@ -142,42 +142,13 @@ Following features/modules will be available to these 2 different roles
 |Change Password|  Manager customer  |Customer: A customer can change password of only his account.Manager: A manager can change password of only his account. He cannot change passwords of his customers |
 |New Customer|  Manager   |Manager: A manager can add a new customer.Manager: A manager can edit details like address, email , telephone of a customer. |
 |New Account|  Manager   |Currently system provides 2 types of accounts ●	Saving ●	Current A customer can have multiple saving accounts (one in his name , other in a joint name etc).He can have multiple current accounts for different companies he owns. Or he can have a multiple current and saving accounts. Manager: A manager can add a new account for an existing customer.  |
+|Edit Account|  Manager   |Manager: A manager can add a edit account details for an existing account|
+|Delete Account|  Manager   |Manager: A manager can add a delete an account for a customer.|
+|Delete Customer|  Manager   |A customer can be deleted only if he/she has  no active current or saving accounts Manager: A manager can delete a customer.|
 
 
-Module Name	Applicable
-Roles	Description
-Balance Enquiry	Manager
-Customer	Customer: A customer can have multiple bank accounts. He can view balance of his accounts only
-Manager: A manager can view balance of all the customers who come under his supervision
-Fund Transfer	Manager
-Customer	Customer: A customer can have transfer funds from his “own” account to any destination account.
-Manager: A manager can transfer funds from any source bank account to destination account
-Mini Statement	Manager
-Customer	A Mini statement will show last 5 transactions of an account
-Customer: A customer can see mini-statement of only his “own” accounts
-Manager: A manager can see mini-statement of any account
-Customized Statement	Manager
-Customer	A customized statement allows you to filter and display transactions in an account based on date, transaction value
-Customer: A customer can see Customized- statement of only his “own” accounts
-Manager: A manager can see Customized -statement of any account
-Change Password	Manager
-Customer	Customer: A customer can change password of only his account.
-Manager: A manager can change password of only his account. He cannot change passwords of his customers
-New Customer	Manager	Manager: A manager can add a new customer.
-	Manager	Manager: A manager can edit details like address, email , telephone of a customer.
-New Account	Manager	Currently system provides 2 types of accounts
-●	Saving
-●	Current
-A customer can have multiple saving accounts (one in his name , other in a joint name etc).
-He can have multiple current accounts for different companies he owns.
-Or he can have a multiple current and saving accounts.
-Manager: A manager can add a new account for an existing customer.
-Edit Account	Manager	Manager: A manager can add a edit account details for an existing account
-Delete Account	Manager	Manager: A manager can add a delete an account for a customer.
-Delete Customer	Manager	A customer can be deleted only if he/she has  no active current or saving accounts
-Manager: A manager can delete a customer.
-Deposit	Manager	Manager: A manager can deposit money into any account. Usually done when cash is deposited at a bank branch.
-Withdrawal	Manager	Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.
+
+
 
 
 2.1 External Interface Requirements
