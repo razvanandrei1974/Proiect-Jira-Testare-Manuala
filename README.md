@@ -135,9 +135,9 @@ Following features/modules will be available to these 2 different roles
 
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :-------------------------------------------------------------:  |
-|Balance enquiry|  Manager customer  |Customer: A customer can have multiple bank accounts. He can view balance of his accounts only Manager: A manager can view balance of all the customers who come under his supervision|
+|Balance enquiry|  Manager customer  |Customer: A customer can have multiple bank accounts. He can view balance of his accounts only . Manager: A manager can view balance of all the customers who come under his supervision|
 |Fund Transfer|  Manager customer  |Customer: A customer can have transfer funds from his “own” account to any destination account. Manager: A manager can transfer funds from any source bank account to destination account|				   							
-|Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account.**Customer:** A customer can see mini-statement of only his “own” accounts. **Manager**: A manager can see ministatement of any account. |	 
+|Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account. Customer: A customer can see mini-statement of only his “own” accounts. Manager: A manager can see ministatement of any account. |	 
 |Customized Statement|  Manager customer  |A customized statement allows you to filter and display transactions in an account based on date, transaction value Customer: A customer can see Customized- statement of only his “own” accounts Manager: A manager can see Customized -statement of any account |
 |Change Password|  Manager customer  |Customer: A customer can change password of only his account.Manager: A manager can change password of only his account. He cannot change passwords of his customers |
 |New Customer|  Manager   |Manager: A manager can add a new customer.Manager: A manager can edit details like address, email , telephone of a customer. |
