@@ -123,10 +123,10 @@ Mini Statement
 Customized Statement	 
 Login & Logout	 
 
-| Manager | Customer   | Author   | Comments |
-| :-----: | :---: | :---: | :---: |
-|New Customer| Balance enquiry   | -   | Draft test plan |
-| 06.11.2023 | v1.1  | -   | - |
+| Manager | Customer   | 
+| :-----: | :---: | 
+|New Customer| Balance enquiry   | 
+| 06.11.2023 | v1.1  |
 
 ## Description of the modules
 
