@@ -20,28 +20,28 @@ Specificații cerințe software
 
 
  
-1. Introduction
-1.1 Purpose
-1.2 Scope
-1.3 Definitions, Acronyms, and Abbreviations
-1.4 References
-2. Specific Requirements
-2.1 External Interface Requirements
-2.1.1 User Interfaces
-2.1.2 Hardware Interfaces
-2.1.3 Software Interfaces
-2.1.4 Communications Interfaces
-3.1 Front End Details
-3.2 Technical Requirements
-3.3 Functional validations
-3.4 Classes / Objects
-3.5 Non-Functional Requirements
-3.6 Inverse Requirements
-3.7 Design Constraints
-3.8 Logical Database Requirements
-3.9 Other Requirements
-4. Analysis Models
-5. Change Management Process
+#### 1. Introduction
+#### 1.1 Purpose
+#### 1.2 Scope
+#### 1.3 Definitions, Acronyms, and Abbreviations
+#### 1.4 References
+#### 2. Specific Requirements
+#### 2.1 External Interface Requirements
+#### 2.1.1 User Interfaces
+#### 2.1.2 Hardware Interfaces
+#### 2.1.3 Software Interfaces
+#### 2.1.4 Communications Interfaces
+#### 3.1 Front End Details
+#### 3.2 Technical Requirements
+#### 3.3 Functional validations
+#### 3.4 Classes / Objects
+#### 3.5 Non-Functional Requirements
+#### 3.6 Inverse Requirements
+#### 3.7 Design Constraints
+#### 3.8 Logical Database Requirements
+#### 3.9 Other Requirements
+#### 4. Analysis Models
+#### 5. Change Management Process
 
 
 
