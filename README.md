@@ -413,13 +413,13 @@ Following is a list of module wise fields
 - T103 Passwords do not Match 
 
 ### Withdraw
--T 104 Account No must not be blank
-*T 105 Special character are not allowed
-+T 106 Characters are not allowed
--T 107 Amount Field must not be blank
-*T 108 Characters are not allowed
-+T 109 Special characters are not allowed
--T 110 Description cannot be blank
+-T104 Account No must not be blank
+*T105 Special character are not allowed
++T106 Characters are not allowed
+-T107 Amount Field must not be blank
+*T108 Characters are not allowed
++T109 Special characters are not allowed
+-T110 Description cannot be blank
 
 
 # 3.3 Functional validations
@@ -437,7 +437,7 @@ Following is a list of module wise fields
 
 
 
-###Fund Transfer
+### Fund Transfer
 ** Manager **
 -F5 If these source and destination account numbers are invalid, system displays an error
 *F6 If these source and destination account numbers are same, system displays an error
