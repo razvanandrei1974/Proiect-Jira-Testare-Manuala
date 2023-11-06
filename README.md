@@ -131,8 +131,14 @@ Login & Logout
 | New Account | Customized Statement  |
 |Edit Account| Change Password | 
 |Delete Account | Login & Logout  |
-
-
+|Deposit|  | 
+| Withdrawal |  |
+|Fund Transfer|    | 
+| Change Password |  |
+|Balance Enquiry| | 
+|Mini Statement |  |
+|Customized Statement|  | 
+|Login & Logout |   |
 
 
 
