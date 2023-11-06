@@ -1,16 +1,17 @@
+# _Test Plan_ 
+
 # Guru99 Aplication 
 
-## Proiectul bancar Guru99
+## Guru99 Bank Project
+
  
- 
- 
-Specificații cerințe software
+## _ Software request _
  
 1.3
  
 03/11/2023
 
-# Istoricul reviziilor
+## Revision history
 
 
 | Date | Description   | Author   | Comments |
@@ -46,44 +47,11 @@ Specificații cerințe software
 #### 5. Change Management Process
 
 
+# 1.Intro
 
+#### The Guru99 Bank project aims to provide net banking facility to its customers.
+#### This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
-
-# 1.Introducere
-
-##### Proiectul Guru99 Bank își propune să ofere facilități bancare nete clienților săi.
-##### Această versiune va avea caracteristici limitate. De-a lungul unei perioade de timp, noi și noi funcționalități vor fi adăugate pe site.
-
-Test deliverables
-
-  Test plan - link to test plan
-  Test conditions 
- -  we will use prod environment
- - testing using new accounts and older account is necessary
-- test conditions will be exported from Jira and added here 
-  Test cases
- - link to test cases / export from Jira with all the test cases written 
-  Daily test summary report
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) 
-  Traceability matrix
- - link to traceability matrix
-  Test case results
- - link to test case results
-  Bugs report
- - link to bugs report
-  Test completion report
- - link to test completion report
-  Schedule
- - we have 10 days of testing
- - we have 30 test cases 
- - in order to finish the regression run we would need to run an ~ of 3 tests/day
-
-## Test Cases JIRA for Guru99 Aplication- Menu New Customer, New Account and Deposit
-
-[Test cases] (
-
-## Bugs Report from Jira for Guru99 Aplication 
-[Bugs report] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
 
 
 
@@ -166,8 +134,9 @@ None
 This section describes the Front end of Guru99 Bank. 
 It also lists a few use cases to describe the functioning of the system
 
-Following is a list of module wise fields
 
+
+## Test Condition
 
 ## _Fund Transfer_
 -	Payers account no
@@ -425,6 +394,13 @@ Following is a list of module wise fields
 *T108 Characters are not allowed
 +T109 Special characters are not allowed
 -T110 Description cannot be blank
+
+## Test Cases JIRA for Guru99 Aplication- Menu New Customer, New Account and Deposit
+
+[Test cases] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf) 
+
+## Bugs Report from Jira for Guru99 Aplication 
+[Bugs report] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
 
 
 # 3.3 Functional validations
