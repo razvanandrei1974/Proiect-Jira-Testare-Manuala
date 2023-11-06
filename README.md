@@ -283,143 +283,143 @@ Following is a list of module wise fields
 - T3.1 Customer Id - First character cannot have space
 
 ### New Customer
--T4    Customer Name – Numbers are not allowed
-*T5    Customer Name – Special characters are not allowed
-+T6    Customer Name -  Customer name must not be blank
--T7    Customer Name - First character cannot have space
-*T8    Address - Address Field must not be blank
-+T9    Address - First character can not have space
--T10  Address - Special characters are not allowed
-*T11  City - Special character are not allowed
-+T12  City - City Field must not be blank
--T13  City – Numbers are not allowed
-*T14  City - First character can not have space
-+T15  State – Numbers are not allowed
--T16  State - State must not be blank
-*T17  State – Special characters are not allowed
-+T17.1  State – First character cannot have space
--T18  Pin - Characters are not allowed
-*T19  Pin - PIN Code must not be blank
-+T20  Pin – Special characters are not allowed
--T21  Pin – PIN Code must have 6 Digits
-*T22  Pin - First character can not have space
-+T23  Telephone Number – Mobile no must not be blank
--T24  Telephone Number  – Special character are not allowed
-*T25  Telephone Number  – Character are not allowed
-+T26  Telephone Number - First character can not have space
--T27  Email : Email ID must not be blank
-*T28  Email : Email ID is not valid
-+T29  Email : First character can not have space
+- T4    Customer Name – Numbers are not allowed
+* T5    Customer Name – Special characters are not allowed
++ T6    Customer Name -  Customer name must not be blank
+- T7    Customer Name - First character cannot have space
+* T8    Address - Address Field must not be blank
++ T9    Address - First character can not have space
+- T10  Address - Special characters are not allowed
+* T11  City - Special character are not allowed
++ T12  City - City Field must not be blank
+- T13  City – Numbers are not allowed
+* T14  City - First character can not have space
++ T15  State – Numbers are not allowed
+- T16  State - State must not be blank
+* T17  State – Special characters are not allowed
++ T17.1  State – First character cannot have space
+- T18  Pin - Characters are not allowed
+* T19  Pin - PIN Code must not be blank
++ T20  Pin – Special characters are not allowed
+-T 21  Pin – PIN Code must have 6 Digits
+*T 22  Pin - First character can not have space
++T 23  Telephone Number – Mobile no must not be blank
+-T 24  Telephone Number  – Special character are not allowed
+*T 25  Telephone Number  – Character are not allowed
++T 26  Telephone Number - First character can not have space
+-T 27  Email : Email ID must not be blank
+*T 28  Email : Email ID is not valid
++T 29  Email : First character can not have space
 
 ### Balance Enquiry
--T30  Account No must not be blank
-*T31  Special character are not allowed
-+T32  Characters are not allowed
+- T30  Account No must not be blank
+* T31  Special character are not allowed
++ T32  Characters are not allowed
  
 ### Customized Statement Form
--T33  Account No - Account Number must not be blank
-*T34  Account No - Characters are not allowed
-+T35  Account No - Special characters are not allowed
--T36  Amount Lower Limit – Special character are not allowed
-*T37  Amount Lower Limit – Amount Lower Limit is required
-+T38  Amount Lower Limit – Characters are not allowed
--T39  Number of Transaction – Special character are not allowed
-*T40  Number of Transaction  - Number of Transaction must not be blank
-+T41  Number of Transaction – Character are not allowed
+- T33  Account No - Account Number must not be blank
+* T34  Account No - Characters are not allowed
++ T35  Account No - Special characters are not allowed
+- T36  Amount Lower Limit – Special character are not allowed
+* T37  Amount Lower Limit – Amount Lower Limit is required
++ T38  Amount Lower Limit – Characters are not allowed
+- T39  Number of Transaction – Special character are not allowed
+* T40  Number of Transaction  - Number of Transaction must not be blank
++ T41  Number of Transaction – Character are not allowed
 
 ### Delete Account Form
--T42  Account No must not be blank
-*T43  Special character are not allowed
-+T44  Characters are not allowed
+- T42  Account No must not be blank
+* T43  Special character are not allowed
++ T44  Characters are not allowed
 
 ### Delete Customer
--T45  Customer Id - Customer ID is required
-*T46  Customer Id - Special character are not allowed
-+T47  Customer Id - Characters are not allowed
--T47.1  Customer Id - First character cannot have space
+- T45  Customer Id - Customer ID is required
+* T46  Customer Id - Special character are not allowed
++ T47  Customer Id - Characters are not allowed
+- T47.1  Customer Id - First character cannot have space
 
 ### Deposit
--T48  Account No must not be blank
-*T49  Special character are not allowed
-+T50  Characters are not allowed
--T51   Amount field must not be blank
-*T52   Special characters are not allowed
-+T53   Characters are not allowed
--T54   Description must not be blank
+- T48  Account No must not be blank
+* T49  Special character are not allowed
++ T50  Characters are not allowed
+- T51   Amount field must not be blank
+* T52   Special characters are not allowed
++ T53   Characters are not allowed
+- T54   Description must not be blank
  
 ### Edit Account
--T55   Account No must not be blank
-*T56   Special character are not allowed
-+T57   Characters are not allowed
+- T55   Account No must not be blank
+* T56   Special character are not allowed
++ T57   Characters are not allowed
 
 ### Edit Customer form
--T58   Customer Id - Customer ID is required
-*T59   Customer Id - Special character are not allowed
-+T60   Customer Id - Characters are not allowed
--T60.1   Customer Id - First character can not have space
+- T58   Customer Id - Customer ID is required
+* T59   Customer Id - Special character are not allowed
++ T60   Customer Id - Characters are not allowed
+- T60.1   Customer Id - First character can not have space
 
 ### Edit Customer
--T61   Address - Address Field must not be blank
-*T62   Address - First character can not have space
-+T63   Address - Special characters are not allowed
--T64   City - Special character are not allowed
-*T65   City - City Field must not be blank
-+T66   City – Numbers are not allowed
--T67   City - First character can not have space
-*T68   State – Numbers are not allowed
-+T69   State - State must not be blank
--T70   State – Special characters are not allowed
-*T70.1   State – First character cannot have space
-+T71   Pin - Characters are not allowed
--T71   Pin - PIN Code must not be blank
-*T72   Pin – Special characters are not allowed
-+T73   Pin – PIN Code must have 6 Digits
--T74   Pin - First character cannot have space
-*T75   Telephone Number – Mobile no must not be blank
-+T76   Telephone Number  – Special character are not allowed
--T77   Telephone Number  – Character are not allowed
-*T78   Telephone Number - First character cannot have space
-+T79   Email : Email ID must not be blank
--T80   Email : Email ID is not valid
-*T81   Email : First character cannot have space
+- T61   Address - Address Field must not be blank
+* T62   Address - First character can not have space
++ T63   Address - Special characters are not allowed
+- T64   City - Special character are not allowed
+* T65   City - City Field must not be blank
++ T66   City – Numbers are not allowed
+- T67   City - First character can not have space
+* T68   State – Numbers are not allowed
++ T69   State - State must not be blank
+- T70   State – Special characters are not allowed
+* T70.1   State – First character cannot have space
++ T71   Pin - Characters are not allowed
+- T71   Pin - PIN Code must not be blank
+* T72   Pin – Special characters are not allowed
++ T73   Pin – PIN Code must have 6 Digits
+- T74   Pin - First character cannot have space
+* T75   Telephone Number – Mobile no must not be blank
++ T76   Telephone Number  – Special character are not allowed
+- T77   Telephone Number  – Character are not allowed
+* T78   Telephone Number - First character cannot have space
++ T79   Email : Email ID must not be blank
+- T80   Email : Email ID is not valid
+* T81   Email : First character cannot have space 
 
 ### Fund Transfer
--T82   Payers Account Number must not be blank
-*T83   Special characters are not allowed
-+T84   Characters are not allowed
--T85   Payees Account Number must not be blank
-*T86   Special characters are not allowed
-+T87   Characters are not allowed
--T88   Amount Field must not be blank
-*T89   Characters are not allowed
-+T90   Special characters are not allowed
--T91   Description cannot be blank
+- T82   Payers Account Number must not be blank
+* T83   Special characters are not allowed
++ T84   Characters are not allowed
+- T85   Payees Account Number must not be blank
+* T86   Special characters are not allowed
++ T87   Characters are not allowed
+- T88   Amount Field must not be blank
+* T89   Characters are not allowed
++ T90   Special characters are not allowed
+- T91   Description cannot be blank
  
 ### Login
--T92   User-ID must not be blank
-*T93   Password must not be blank
-+Mini Statement Page
--T94   Account No must not be blank
-*T95   Special character are not allowed
-+T96   Characters are not allowed
+- T92   User-ID must not be blank
+* T93   Password must not be blank
++ Mini Statement Page
+- T94   Account No must not be blank
+* T95   Special character are not allowed
++ T96   Characters are not allowed
 
 ### Change Password
--T97   Old Password must not be blank
-*T98   New Password must not be blank
-+T99   Enter at-least one numeric value
--T100 Enter at-least one special character
-*T101 Choose a difficult Password
-+T102 Confirm Password must not be blank
--T103 Passwords do not Match
+- T97   Old Password must not be blank
+* T98   New Password must not be blank
++ T99   Enter at-least one numeric value
+- T100 Enter at-least one special character
+* T101 Choose a difficult Password
++ T102 Confirm Password must not be blank
+- T103 Passwords do not Match 
 
 ### Withdraw
--T104 Account No must not be blank
-*T105 Special character are not allowed
-+T106 Characters are not allowed
--T107 Amount Field must not be blank
-*T108 Characters are not allowed
-+T109 Special characters are not allowed
--T110 Description cannot be blank
+-T 104 Account No must not be blank
+*T 105 Special character are not allowed
++T 106 Characters are not allowed
+-T 107 Amount Field must not be blank
+*T 108 Characters are not allowed
++T 109 Special characters are not allowed
+-T 110 Description cannot be blank
 
 
 # 3.3 Functional validations
