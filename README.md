@@ -301,15 +301,15 @@ Following is a list of module wise fields
 - T18  Pin - Characters are not allowed
 * T19  Pin - PIN Code must not be blank
 + T20  Pin – Special characters are not allowed
--T 21  Pin – PIN Code must have 6 Digits
-*T 22  Pin - First character can not have space
-+T 23  Telephone Number – Mobile no must not be blank
--T 24  Telephone Number  – Special character are not allowed
-*T 25  Telephone Number  – Character are not allowed
-+T 26  Telephone Number - First character can not have space
--T 27  Email : Email ID must not be blank
-*T 28  Email : Email ID is not valid
-+T 29  Email : First character can not have space
+- T21  Pin – PIN Code must have 6 Digits
+* T22  Pin - First character can not have space
++ T23  Telephone Number – Mobile no must not be blank
+- T24  Telephone Number  – Special character are not allowed
+* T25  Telephone Number  – Character are not allowed
++ T26  Telephone Number - First character can not have space
+- T27  Email : Email ID must not be blank
+* T28  Email : Email ID is not valid
++ T29  Email : First character can not have space
 
 ### Balance Enquiry
 - T30  Account No must not be blank
