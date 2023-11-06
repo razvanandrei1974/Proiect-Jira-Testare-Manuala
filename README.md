@@ -139,7 +139,7 @@ Following features/modules will be available to these 2 different roles
 |Fund Transfer|  Manager customer  |Customer: A customer can have transfer funds from his “own” account to any destination account. Manager: A manager can transfer funds from any source bank account to destination account|				   							
 |Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account.**Customer:** A customer can see mini-statement of only his “own” accounts. **Manager**: A manager can see ministatement of any account.|	 
 
-[ Description of the modules](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Numele%20modulului%20.pdf)
+
 
 
 
