@@ -145,7 +145,8 @@ Following features/modules will be available to these 2 different roles
 |Edit Account|  Manager   |Manager: A manager can add a edit account details for an existing account|
 |Delete Account|  Manager   |Manager: A manager can add a delete an account for a customer.|
 |Delete Customer|  Manager   |A customer can be deleted only if he/she has  no active current or saving accounts Manager: A manager can delete a customer.|
-
+|Deposit|  Manager   |Manager: A manager can deposit money into any account. Usually done when cash is deposited at a bank branch.|
+|Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
 
 
 
