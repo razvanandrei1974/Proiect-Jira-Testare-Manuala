@@ -78,12 +78,13 @@ Test deliverables
  - we have 30 test cases 
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
-## Test Cases JIRA for Guru99 aplication- Menu New Customer, New Account and Deposit
+## Test Cases JIRA for Guru99 Aplication- Menu New Customer, New Account and Deposit
 
 [Test cases] (
 
+## Bugs Report from Jira for Guru99 Aplication 
+[Bugs report] (https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
 
-link pdf din repository
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
