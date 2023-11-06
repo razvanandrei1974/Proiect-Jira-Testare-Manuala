@@ -131,7 +131,7 @@ Following features/modules will be available to these 2 different roles
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :---------------------------:  |
 |Balance enquiry|  Manager customer  |Customer: A customer can have multiple bank accounts. He can view balance of his accounts only Manager: A manager can view balance of all the customers who come under his supervision|
-				   							
+|Fund Transfer|  Manager customer  |Customer: A customer can have transfer funds from his “own” account to any destination account. Manager: A manager can transfer funds from any source bank account to destination account|				   							
  
 
 
