@@ -135,7 +135,7 @@ Following features/modules will be available to these 2 different roles
 
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :-------------------------------------------------------------:  |
-|Balance enquiry|  Manager customer  |Customer: A customer can have multiple bank accounts. He can view balance of his accounts only . Manager: A manager can view balance of all the customers who come under his supervision|
+|Balance enquiry|  Manager customer  | **Customer:**  A customer can have multiple bank accounts. He can view balance of his accounts only . Manager: A manager can view balance of all the customers who come under his supervision|
 |Fund Transfer|  Manager customer  |Customer: A customer can have transfer funds from his “own” account to any destination account. Manager: A manager can transfer funds from any source bank account to destination account|				   							
 |Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account. Customer: A customer can see mini-statement of only his “own” accounts. Manager: A manager can see ministatement of any account. |	 
 |Customized Statement|  Manager customer  |A customized statement allows you to filter and display transactions in an account based on date, transaction value Customer: A customer can see Customized- statement of only his “own” accounts Manager: A manager can see Customized -statement of any account |
@@ -424,159 +424,143 @@ Following is a list of module wise fields
 
 # 3.3 Functional validations
 
-Balance Enquiry
+### ** Balance Enquiry ** 
 
-Manager
-F1 Manager can view balance of accounts associate with him
-F2 Account number entered should exist in database
-
-
-Customer
-F3 Customer can view balance of only his accounts
-F4 Account number entered should exist in database
+### Manager
+-F1 Manager can view balance of accounts associate with him
+*F2 Account number entered should exist in database
 
 
-
-Fund Transfer
-Manager
-F5 If these source and destination account numbers are invalid, system displays an error
-F6 If these source and destination account numbers are same, system displays an error
-F7 If the source account does not have the necessary balance, system displays an error
-F8 If the source account does not associated with manager, System displays an error
-
-
-Customer
-F9 If the destination account number is not valid, system displays an error
-F10 If these source and destination account numbers are same, system displays an error
-F11 If the source account does not have the necessary balance, system displays an error
-F12 If the source account is not associate with customer itself, System displays an error.
+### Customer
+-F3 Customer can view balance of only his accounts
+*F4 Account number entered should exist in database
 
 
 
-Withdrawal
-Manager
-F13 If source account number is invalid, system displays an error
-F14 If source account does not have the necessary balance, system displays an error
-F15 If source account does not associate with manager, System displays an error.
+###Fund Transfer
+** Manager **
+-F5 If these source and destination account numbers are invalid, system displays an error
+*F6 If these source and destination account numbers are same, system displays an error
++F7 If the source account does not have the necessary balance, system displays an error
+-F8 If the source account does not associated with manager, System displays an error
 
 
-Customer
-F16 If source account number is invalid, system displays an error
-F17 If source account does not have the necessary balance, system displays an error
-F18 If source account does not associate with customer, System displays an error.
+### Customer
+-F9 If the destination account number is not valid, system displays an error
+*F10 If these source and destination account numbers are same, system displays an error
++F11 If the source account does not have the necessary balance, system displays an error
+-F12 If the source account is not associate with customer itself, System displays an error.
 
+### Withdrawal
+** Manager ** 
+-F13 If source account number is invalid, system displays an error
+*F14 If source account does not have the necessary balance, system displays an error
++F15 If source account does not associate with manager, System displays an error.
 
-Deposit
-Manager
-F19 If destination account number is invalid, system displays an error
-F20 If destination account number does not associate with manager, System displays an error.
+### Customer
+-F16 If source account number is invalid, system displays an error
+*F17 If source account does not have the necessary balance, system displays an error
++F18 If source account does not associate with customer, System displays an error.
 
+### Deposit
+** Manager ** 
+-F19 If destination account number is invalid, system displays an error
+*F20 If destination account number does not associate with manager, System displays an error.
 
-Customer
-F21 If destination account number is invalid, system displays an error
-F22 If destination account number does not associate with customer, System displays an error.
+### Customer
+-F21 If destination account number is invalid, system displays an error
+*F22 If destination account number does not associate with customer, System displays an error.
 
+### Delete Customer
+** Manager **
+-F23 If Customer Id is invalid, system displays an error.
+*F24 If account associate with Customer Id, System displays an error.
++F25 If Customer Id does not associate with manager, System displays an error.
 
-Delete Customer
-Manager
-F23 If Customer Id is invalid, system displays an error.
-F24 If account associate with Customer Id, System displays an error.
-F25 If Customer Id does not associate with manager, System displays an error.
+### Delete Account
+** Manager ** 
+-F26 If Account Number is invalid, system displays an error
+*F27 If account does not associate with manager logged in, System displays an error.
 
+### Edit Account
+** Manager ** 
+-F28 If Account Number is invalid, system displays an error.
+*F29 If Account number does not associate with manager, System displays an error.
 
-Delete Account
-Manager
-F26 If Account Number is invalid, system displays an error
-F27 If account does not associate with manager logged in, System displays an error.
+### New Account
+** Manager **
+-F30 If Customer ID is invalid, system displays an error.
+*F31 If initial deposit is less than 500, System displays an error.
++F32 If Customer Id does not associate with manager, System displays an error.
 
+### New Customer
+** Manager ** 
+-F33 If same Email Id exist in the system, system shows an error.
 
-Edit Account
-Manager
-F28 If Account Number is invalid, system displays an error.
-F29 If Account number does not associate with manager, System displays an error.
+### Edit Customer
+** Manager ** 
+-F34 If same Email Id exist in the system, system shows an error.
+*F35 If Customer Id is invalid, System displays an error.
++F36 If Customer Id does not associate with Manager, System displays an error.
 
+### Change Password
+** Manager ** 
+-F37 If Old Password is invalid, System shows an error.
 
-New Account
-Manager
-F30 If Customer ID is invalid, system displays an error.
-F31 If initial deposit is less than 500, System displays an error.
-F32 If Customer Id does not associate with manager, System displays an error.
+### Customer
+-F38 If Old Password is invalid, System displays an error
 
+### Customized Statement
+** Manager **
+-F39 If account no is invalid, System displays an error
+*F40 If From Date is greater than To Date, System dispalys an error.
 
-New Customer
-Manager
-F33 If same Email Id exist in the system, system shows an error.
+### Customer
+-F41 If account no is invalid, System displays an error
+*F42 If From Date is greater than To Date, System dispalys an error.
 
+### Mini Statement
+** Manager **
+-F43 If account no is invalid, System displays an error
+*F44 If transaction not exist in system, System displays an error.
++F45 If account not associate with manager itself, System displays an error.
 
-Edit Customer
-Manager
-F34 If same Email Id exist in the system, system shows an error.
-F35 If Customer Id is invalid, System displays an error.
-F36 If Customer Id does not associate with Manager, System displays an error.
-
-
-Change Password
-Manager
-F37 If Old Password is invalid, System shows an error.
-
-
-Customer
-F38 If Old Password is invalid, System displays an error
-
-
-Customized Statement
-Manager
-F39 If account no is invalid, System displays an error
-F40 If From Date is greater than To Date, System dispalys an error.
-
-
-Customer
-F41 If account no is invalid, System displays an error
-F42 If From Date is greater than To Date, System dispalys an error.
-
-
-Mini Statement
-Manager
-F43 If account no is invalid, System displays an error
-F44 If transaction not exist in system, System displays an error.
-F45 If account not associate with manager itself, System displays an error.
-Customer
-F46 If account no is invalid, System displays an error.
-F47 If account associate with customer itself, System displays an error.
-
+### Customer
+-F46 If account no is invalid, System displays an error.
+*F47 If account associate with customer itself, System displays an error.
 
 Balance Enquiry
-Manager
-F48 If account no is invalid, System displays an error
-Customer
-F49 If account no is invalid, System displays an error
+** Manager **
+-F48 If account no is invalid, System displays an error
+** Customer **
+-F49 If account no is invalid, System displays an error
 
-3.4 Classes / Objects
+## 3.4 Classes / Objects
  
-3.5.1.1 Attributes
-3.5.1.2 Functions
+-3.5.1.1 Attributes
++3.5.1.2 Functions
 
 
-3.5 Non-Functional Requirements
+### 3.5 Non-Functional Requirements
 Nil
-3.6 Inverse Requirements
+### 3.6 Inverse Requirements
 Nil.
-3.7 Design Constraints
+### 3.7 Design Constraints
 Many of the Guru99 Bank users may not have adequate computer knowledge to use the site. Hence, System must be intuitive and easy to understand.
-3.8 Logical Database Requirements
+### 3.8 Logical Database Requirements
 Nil
-3.9 Other Requirements
+### 3.9 Other Requirements
 Nil
-4. Analysis Models
+### 4. Analysis Models
 Nil
-5. Change Management Process
+### 5. Change Management Process
 Changes to the SRS either from the development, testing team or the client side will be communicated to the project sponsor Mr Krishna Rungta.
 
 Any change made to the SRS will require a sign off from the Development lead , QA lead and the client.
 
 Once approved changed will be made to the SRS and the new SRS will be circulated to all stakeholders
 
-A. Appendices
+### A. Appendices
 Nil
 
 
