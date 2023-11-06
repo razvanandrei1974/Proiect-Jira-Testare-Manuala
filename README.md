@@ -172,7 +172,7 @@ Following is a list of module wise fields
 -	Submit
 *	Reset
 
-## Change Password
+## _Change Password_
 -	Old Password
 *	New Password
 +	Confirm Password
@@ -211,55 +211,55 @@ Following is a list of module wise fields
 -	Submit
 *	Reset
 
-## _New Account-
+## _New Account_
 -	Customer Id
 *	Account Type
 +	Initial deposit
 -	Submit
 *	Reset
 
-Deposit
+##  _Deposit_
 -	Account Number
 *	Amount Deposit
 +	Description
 -	Submit
 *	Reset
 
-Withdraw
+##  _Withdraw_
 -	Account Number 
 *	Amount
 +	Description
 -	Submit
 *	Reset
 
-Delete Customer
+##  _Delete Customer_
 -	Customer Id
 *	Submit
 +	Reset
 
-Edit Account
+##  _Edit Account_
 -	Account Number
 *	Submit
 +	Reset
 
-Form after submitting Edit Account
+## Form after submitting Edit Account
 -	Customer Id 
 *	Account Type (Drop Down - Saving or Current)
 +	Balance 
 -	Submit
 *	Reset
 
-Delete Account
+##  _Delete Account_
 -	Account Number
 *	Submit
 +	Reset
 
-Edit Customer
+##  _Edit Customer_
 -	Customer Id
 *	Submit
 +	Reset
 
-Form after submitting Edit Customer
+## Form after submitting Edit Customer
 -	Customer Name 
 *	Gender 
 +	Date of Birth
