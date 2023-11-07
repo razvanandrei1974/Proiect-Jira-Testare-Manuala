@@ -526,7 +526,16 @@ Balance Enquiry
 [Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
 
 ## Test Summary
-[Test Summary Version 1.1](
+![Test Summary Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20SUMMARY.jpg)
+
+## Test Metrics
+![Test Metrics Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
+
+## Test Execution
+![Test Execution](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION.jpg)
+
+## Test execution by date
+![TEst Execution by date](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION%20BY%20DATE.jpg)
 
 
 ## 3.4 Classes / Objects
@@ -534,19 +543,22 @@ Balance Enquiry
 -3.5.1.1 Attributes
 +3.5.1.2 Functions
 
-
 ### 3.5 Non-Functional Requirements
-Nil
+## _Under Construction_
+
 ### 3.6 Inverse Requirements
-Nil.
+## _Under Construction_
+
 ### 3.7 Design Constraints
 Many of the Guru99 Bank users may not have adequate computer knowledge to use the site. Hence, System must be intuitive and easy to understand.
+
 ### 3.8 Logical Database Requirements
-Nil
+## _Under Construction_ 
+
 ### 3.9 Other Requirements
-Nil
+## _Under Construction_
 ### 4. Analysis Models
-Nil
+## _Under Construction_
 ### 5. Change Management Process
 Changes to the SRS either from the development, testing team or the client side will be communicated to the project sponsor Mr Krishna Rungta.
 
@@ -555,6 +567,6 @@ Any change made to the SRS will require a sign off from the Development lead , Q
 Once approved changed will be made to the SRS and the new SRS will be circulated to all stakeholders
 
 ### A. Appendices
-Nil
+## _Under Construction_
 
 
