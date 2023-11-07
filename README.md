@@ -405,94 +405,90 @@ It also lists a few use cases to describe the functioning of the system
 
 # 3.3 Functional validations
 
-### ** Balance Enquiry ** 
+### Balance Enquiry  
 
-### Manager
+#### Manager
 -F1 Manager can view balance of accounts associate with him
 *F2 Account number entered should exist in database
 
-
-### Customer
+#### Customer
 -F3 Customer can view balance of only his accounts
 *F4 Account number entered should exist in database
 
-
-
 ### Fund Transfer
-** Manager **
+#### Manager
 -F5 If these source and destination account numbers are invalid, system displays an error
 *F6 If these source and destination account numbers are same, system displays an error
 +F7 If the source account does not have the necessary balance, system displays an error
 -F8 If the source account does not associated with manager, System displays an error
 
-
-### Customer
+#### Customer
 -F9 If the destination account number is not valid, system displays an error
 *F10 If these source and destination account numbers are same, system displays an error
 +F11 If the source account does not have the necessary balance, system displays an error
--F12 If the source account is not associate with customer itself, System displays an error.
+-F12 If the source account is not associate with customer itself, System displays an error
 
 ### Withdrawal
-** Manager ** 
+#### Manager  
 -F13 If source account number is invalid, system displays an error
 *F14 If source account does not have the necessary balance, system displays an error
 +F15 If source account does not associate with manager, System displays an error.
 
-### Customer
+#### Customer
 -F16 If source account number is invalid, system displays an error
 *F17 If source account does not have the necessary balance, system displays an error
 +F18 If source account does not associate with customer, System displays an error.
 
 ### Deposit
-** Manager ** 
+#### Manager 
 -F19 If destination account number is invalid, system displays an error
 *F20 If destination account number does not associate with manager, System displays an error.
 
-### Customer
+#### Customer
 -F21 If destination account number is invalid, system displays an error
 *F22 If destination account number does not associate with customer, System displays an error.
 
 ### Delete Customer
-** Manager **
+#### Manager
 -F23 If Customer Id is invalid, system displays an error.
 *F24 If account associate with Customer Id, System displays an error.
 +F25 If Customer Id does not associate with manager, System displays an error.
 
 ### Delete Account
-** Manager ** 
+#### Manager 
 -F26 If Account Number is invalid, system displays an error
 *F27 If account does not associate with manager logged in, System displays an error.
 
 ### Edit Account
-** Manager ** 
+### Manager 
 -F28 If Account Number is invalid, system displays an error.
 *F29 If Account number does not associate with manager, System displays an error.
 
 ### New Account
-** Manager **
+#### Manager
 -F30 If Customer ID is invalid, system displays an error.
 *F31 If initial deposit is less than 500, System displays an error.
 +F32 If Customer Id does not associate with manager, System displays an error.
 
 ### New Customer
-** Manager ** 
+#### Manager  
 -F33 If same Email Id exist in the system, system shows an error.
 
 ### Edit Customer
-** Manager ** 
+#### Manager  
 -F34 If same Email Id exist in the system, system shows an error.
 *F35 If Customer Id is invalid, System displays an error.
 +F36 If Customer Id does not associate with Manager, System displays an error.
 
 ### Change Password
-** Manager ** 
+#### Manager 
 -F37 If Old Password is invalid, System shows an error.
 
 ### Customer
 -F38 If Old Password is invalid, System displays an error
 
 ### Customized Statement
-** Manager **
+#### Manager
 -F39 If account no is invalid, System displays an error
 *F40 If From Date is greater than To Date, System dispalys an error.
 
@@ -501,7 +497,7 @@ It also lists a few use cases to describe the functioning of the system
 *F42 If From Date is greater than To Date, System dispalys an error.
 
 ### Mini Statement
-** Manager **
+#### Manager
 -F43 If account no is invalid, System displays an error
 *F44 If transaction not exist in system, System displays an error.
 +F45 If account not associate with manager itself, System displays an error.
@@ -510,10 +506,10 @@ It also lists a few use cases to describe the functioning of the system
 -F46 If account no is invalid, System displays an error.
 *F47 If account associate with customer itself, System displays an error.
 
-Balance Enquiry
-** Manager **
+### Balance Enquiry
+#### Manager
 -F48 If account no is invalid, System displays an error
-** Customer **
+#### Customer 
 -F49 If account no is invalid, System displays an error
 
 ## Daily Report 
