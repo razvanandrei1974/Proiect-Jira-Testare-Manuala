@@ -525,6 +525,9 @@ Balance Enquiry
 ## Dasboard JIRA
 [Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
 
+## Test Summary
+[Test Summary Version 1.1](
+
 
 ## 3.4 Classes / Objects
  
