@@ -5,7 +5,7 @@
 ## Guru99 Bank Project
 
  
-## _ Software request _
+## _Software request_
  
 1.3
  
