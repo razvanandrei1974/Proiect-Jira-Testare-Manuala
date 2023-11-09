@@ -17,7 +17,7 @@
 | Date | Description   | Author   | Comments |
 | :-----: | :---: | :---: | :---: |
 |03.11.2023 | Test Plan for version 1.1   | -   | Draft test plan |
-| 06.11.2023 | v1.1  | -   | - |
+| 06.11.2023 | v1.1  | Ravan Ungar   | - |
 
 
 
