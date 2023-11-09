@@ -1,4 +1,4 @@
-# _Test Plan_ 
+# _Test Planing_ 
 
 # Guru99 Aplication 
 
@@ -65,15 +65,13 @@ Automation testing is beyond scope.
 Functional testing & external interfaces are in scope and need to be tested
 The banking site will be only compatible with Chrome version 27 and above
 
-### 1.3 Definitions, Acronyms, and Abbreviations
-Abbreviation	Word
-M	Manager
-C	Customer
+# 1 Testing section
+## 1.1 Test Planning
+The Test Plan is designed to describe all details of testing for the X module from the Guru99 application.
 
-### 1.4 References
-Nil
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
-# 2. Specific Requirements
+# Specific Requirements
 The Guru99 Bank will have 2 roles
 ### 1.	Manager
 ### 2.	Customer
@@ -96,42 +94,29 @@ Following features/modules will be available to these 2 different roles
 |Customized Statement|  | 
 |Login & Logout |   |
 
+### 1.1.1 Roles assigned to the project and persons allocated
+| Date | Description   | Author   | Comments |
+| :-----: | :---: | :---: | :---: |
+|03.11.2023 | Test Plan for version 1.1   | -   | Draft test plan |
+| 06.11.2023 | v1.1  | Ravan Ungar   | - |
 
 
-## Description of the modules
+1.1.4 Test scope
+Tests in scope:
+Tests not in scope:
+1.1.5 Risks detected
+Project risks:
+Product risks:
+1.1.6 Evaluating entry criteria
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
-| Module Name | Aplicabile Rules   | Description   |
-| :-----: | :---: | :-------------------------------------------------------------:  |
-|Balance enquiry|  Manager customer  | **Customer:**  A customer can have multiple bank accounts. He can view balance of his accounts only . Manager: A manager can view balance of all the customers who come under his supervision|
-|Fund Transfer|  Manager customer  |Customer: A customer can have transfer funds from his “own” account to any destination account. Manager: A manager can transfer funds from any source bank account to destination account|				   							
-|Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account. Customer: A customer can see mini-statement of only his “own” accounts. Manager: A manager can see ministatement of any account. |	 
-|Customized Statement|  Manager customer  |A customized statement allows you to filter and display transactions in an account based on date, transaction value Customer: A customer can see Customized- statement of only his “own” accounts Manager: A manager can see Customized -statement of any account |
-|Change Password|  Manager customer  |Customer: A customer can change password of only his account.Manager: A manager can change password of only his account. He cannot change passwords of his customers |
-|New Customer|  Manager   |Manager: A manager can add a new customer.Manager: A manager can edit details like address, email , telephone of a customer. |
-|New Account|  Manager   |Currently system provides 2 types of accounts ●	Saving ●	Current A customer can have multiple saving accounts (one in his name , other in a joint name etc).He can have multiple current accounts for different companies he owns. Or he can have a multiple current and saving accounts. Manager: A manager can add a new account for an existing customer.  |
-|Edit Account|  Manager   |Manager: A manager can add a edit account details for an existing account|
-|Delete Account|  Manager   |Manager: A manager can add a delete an account for a customer.|
-|Delete Customer|  Manager   |A customer can be deleted only if he/she has  no active current or saving accounts Manager: A manager can delete a customer.|
-|Deposit|  Manager   |Manager: A manager can deposit money into any account. Usually done when cash is deposited at a bank branch.|
-|Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
+1.2 Test Monitoring and Control
+It will be done by generating periodic reports that reflect the current status of the test.
+### Daily Report 
+[Daily Report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
 
-
-## 2.1 External Interface Requirements
-### 2.1.1 User Interfaces
-None
-### 2.1.2 Hardware Interfaces
-None
-### 2.1.3 Software Interfaces
-None
-### 2.1.4 Communications Interfaces
-None
-## 3.1 Front End Details
-This section describes the Front end of Guru99 Bank. 
-It also lists a few use cases to describe the functioning of the system
-
-
-
-## Test Condition
+1.3 Test Analysis
+The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 ## _Fund Transfer_
 -	Payers account no
@@ -240,10 +225,66 @@ It also lists a few use cases to describe the functioning of the system
 -	Submit
 *	Reset
 
+1.4 Test Design
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
+
+Test cases: -> 
+The test cases with steps can be viewed here: [Test Cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
+
+1.5 Test Implementation
+The following elements are needed to be ready before the test execution phase begins:
+
+enter here what needs to be ready for the test execution to begin
+
+## 1.6 Test Execution
+Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
+enter here bug titles
+
+## 1.7 Test Completion
+Exit criteria was evaluated and passed
+The traceability matrix was generated and can be found here:## Traceability Matrix
+[Traceability Matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
+
+Test execution chart was generated, the final report shows.... -> describe the final report
+## Dasboard JIRA
+[Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
+
+## Test Summary
+![Test Summary Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20SUMMARY.jpg)
+
+## Test Metrics
+![Test Metrics Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
+
+## Test Execution
+![Test Execution](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION.jpg)
+
+## Test execution by date
+![TEst Execution by date](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION%20BY%20DATE.jpg)
+
+### 1.3 Definitions, Acronyms, and Abbreviations
+Abbreviation	Word
+M	Manager
+C	Customer
+### 1.1.2 Entry criteria defined
+
+| Module Name | Aplicabile Rules   | Description   |
+| :-----: | :---: | :-------------------------------------------------------------:  |
+|Balance enquiry|  Manager customer  | **Customer:**  A customer can have multiple bank accounts. He can view balance of his accounts only . Manager: A manager can view balance of all the customers who come under his supervision|
+|Fund Transfer|  Manager customer  |Customer: A customer can have transfer funds from his “own” account to any destination account. Manager: A manager can transfer funds from any source bank account to destination account|				   							
+|Mini Statement|  Manager customer  |A Mini statement will show last 5 transactions of an account. Customer: A customer can see mini-statement of only his “own” accounts. Manager: A manager can see ministatement of any account. |	 
+|Customized Statement|  Manager customer  |A customized statement allows you to filter and display transactions in an account based on date, transaction value Customer: A customer can see Customized- statement of only his “own” accounts Manager: A manager can see Customized -statement of any account |
+|Change Password|  Manager customer  |Customer: A customer can change password of only his account.Manager: A manager can change password of only his account. He cannot change passwords of his customers |
+|New Customer|  Manager   |Manager: A manager can add a new customer.Manager: A manager can edit details like address, email , telephone of a customer. |
+|New Account|  Manager   |Currently system provides 2 types of accounts ●	Saving ●	Current A customer can have multiple saving accounts (one in his name , other in a joint name etc).He can have multiple current accounts for different companies he owns. Or he can have a multiple current and saving accounts. Manager: A manager can add a new account for an existing customer.  |
+|Edit Account|  Manager   |Manager: A manager can add a edit account details for an existing account|
+|Delete Account|  Manager   |Manager: A manager can add a delete an account for a customer.|
+|Delete Customer|  Manager   |A customer can be deleted only if he/she has  no active current or saving accounts Manager: A manager can delete a customer.|
+|Deposit|  Manager   |Manager: A manager can deposit money into any account. Usually done when cash is deposited at a bank branch.|
+|Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
 
 
-## 3.2 Technical Requirements
-
+## 1.1.3 Exit criteria defined
 ### New Account
 - T1    Customer Id - Customer ID is required
 * T2    Customer Id - Special character are not allowed
@@ -390,14 +431,6 @@ It also lists a few use cases to describe the functioning of the system
 + T109 Special characters are not allowed
 - T110 Description cannot be blank
 
-## Test Cases JIRA for Guru99 Aplication- Menu New Customer, New Account and Deposit
-
-[Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf) 
-
-## Bugs Report from Jira for Guru99 Aplication 
-[Bugs report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
-
-
 # 3.3 Functional validations
 
 ### Balance Enquiry  
@@ -507,120 +540,6 @@ It also lists a few use cases to describe the functioning of the system
 #### Customer 
 - F49 If account no is invalid, System displays an error
 
-## Daily Report 
-[Daily Report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
 
-## Traceability Matrix
-[Traceability Matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
-
-## Dasboard JIRA
-[Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
-
-## Test Summary
-![Test Summary Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20SUMMARY.jpg)
-
-## Test Metrics
-![Test Metrics Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
-
-## Test Execution
-![Test Execution](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION.jpg)
-
-## Test execution by date
-![TEst Execution by date](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION%20BY%20DATE.jpg)
-
-
-## 3.4 Classes / Objects
- 
--3.5.1.1 Attributes
-+3.5.1.2 Functions
-
-### 3.5 Non-Functional Requirements
-## _Under Construction_
-
-### 3.6 Inverse Requirements
-## _Under Construction_
-
-### 3.7 Design Constraints
-Many of the Guru99 Bank users may not have adequate computer knowledge to use the site. Hence, System must be intuitive and easy to understand.
-
-### 3.8 Logical Database Requirements
-## _Under Construction_ 
-
-### 3.9 Other Requirements
-## _Under Construction_
-### 4. Analysis Models
-## _Under Construction_
-### 5. Change Management Process
-Changes to the SRS either from the development, testing team or the client side will be communicated to the project sponsor Mr Krishna Rungta.
-
-Any change made to the SRS will require a sign off from the Development lead , QA lead and the client.
-
-Once approved changed will be made to the SRS and the new SRS will be circulated to all stakeholders
-
-# TEMPLATE :
-Final project for ITF Manual Testing Course
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
-
-Application under test:
-
-API Documentation:
-
-The final project will be split into 2 sections: Testing section and SQL section.
-
-Tools used:
-
-Functional specifications
--> enter here the functional specifications created in JIRA
-
-1 Testing section
-1.1 Test Planning
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application.
-
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
-
-1.1.1 Roles assigned to the project and persons allocated
-1.1.2 Entry criteria defined
-1.1.3 Exit criteria defined
-1.1.4 Test scope
-Tests in scope:
-Tests not in scope:
-1.1.5 Risks detected
-Project risks:
-Product risks:
-1.1.6 Evaluating entry criteria
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
-
-1.2 Test Monitoring and Control
-It will be done by generating periodic reports that reflect the current status of the test.
-
-1.3 Test Analysis
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
-
-Enter test conditions here
-1.4 Test Design
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
-
-Test cases: -> enter here test cases or at least the titles
-
-The test cases with steps can be viewed here: test_cases.pdf
-
-1.5 Test Implementation
-The following elements are needed to be ready before the test execution phase begins:
-
-enter here what needs to be ready for the test execution to begin
-1.6 Test Execution
-Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
-Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
-enter here bug titles
-1.7 Test Completion
-Exit criteria was evaluated and passed
-The traceability matrix was generated and can be found here: Traceability_matrix.csv
-Test execution chart was generated, the final report shows.... -> describe the final report
--> enter here test execution report/chart
-
-2 SQL section
-
-### A. Appendices
-## _Under Construction_
 
 
