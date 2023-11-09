@@ -20,33 +20,6 @@
 | 06.11.2023 | v1.1  | Ravan Ungar   | - |
 
 
-
-## Table of contens
- 
-#### 1. Introduction
-#### 1.1 Purpose
-#### 1.2 Scope
-#### 1.3 Definitions, Acronyms, and Abbreviations
-#### 1.4 References
-#### 2. Specific Requirements
-#### 2.1 External Interface Requirements
-#### 2.1.1 User Interfaces
-#### 2.1.2 Hardware Interfaces
-#### 2.1.3 Software Interfaces
-#### 2.1.4 Communications Interfaces
-#### 3.1 Front End Details
-#### 3.2 Technical Requirements
-#### 3.3 Functional validations
-#### 3.4 Classes / Objects
-#### 3.5 Non-Functional Requirements
-#### 3.6 Inverse Requirements
-#### 3.7 Design Constraints
-#### 3.8 Logical Database Requirements
-#### 3.9 Other Requirements
-#### 4. Analysis Models
-#### 5. Change Management Process
-
-
 # 1.Intro
 
 #### The Guru99 Bank project aims to provide net banking facility to its customers.
@@ -65,13 +38,13 @@ Automation testing is beyond scope.
 Functional testing & external interfaces are in scope and need to be tested
 The banking site will be only compatible with Chrome version 27 and above
 
-# 1 Testing section
-## 1.1 Test Planning
+# 1.3 Testing section
+## 1.4 Test Planning
 The Test Plan is designed to describe all details of testing for the X module from the Guru99 application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
-# Specific Requirements
+1.5. # Specific Requirements
 The Guru99 Bank will have 2 roles
 ### 1.	Manager
 ### 2.	Customer
@@ -94,14 +67,14 @@ Following features/modules will be available to these 2 different roles
 |Customized Statement|  | 
 |Login & Logout |   |
 
-### 1.1.1 Roles assigned to the project and persons allocated
+### 1.6 Roles assigned to the project and persons allocated
 | Date | Description   | Author   | Comments |
 | :-----: | :---: | :---: | :---: |
 |03.11.2023 | Test Plan for version 1.1   | -   | Draft test plan |
 | 06.11.2023 | v1.1  | Ravan Ungar   | - |
 
 
-1.1.4 Test scope
+1.7 Test scope
 Tests in scope:
 Tests not in scope:
 1.1.5 Risks detected
@@ -110,12 +83,12 @@ Product risks:
 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
-1.2 Test Monitoring and Control
+1.8 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
 ### Daily Report 
 [Daily Report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
 
-1.3 Test Analysis
+1.9 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 ## _Fund Transfer_
@@ -225,48 +198,48 @@ The testing process will be executed based on the above requirements for the Dep
 -	Submit
 *	Reset
 
-1.4 Test Design
+1.10 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
 Test cases: -> 
 The test cases with steps can be viewed here: [Test Cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
 
-1.5 Test Implementation
+1.11 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
 enter here what needs to be ready for the test execution to begin
 
-## 1.6 Test Execution
+## 2 Test Execution
 Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf)
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
 enter here bug titles
 
-## 1.7 Test Completion
+## 2.1 Test Completion
 Exit criteria was evaluated and passed
 The traceability matrix was generated and can be found here:## Traceability Matrix
 [Traceability Matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
 
-Test execution chart was generated, the final report shows.... -> describe the final report
+### 2.2. Test execution chart was generated, the final report shows.... -> describe the final report
 ## Dasboard JIRA
 [Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
 
-## Test Summary
+## 2.3.  Test Summary
 ![Test Summary Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20SUMMARY.jpg)
 
-## Test Metrics
+## 2.4. Test Metrics
 ![Test Metrics Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
 
-## Test Execution
+## 2.5. Test Execution
 ![Test Execution](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION.jpg)
 
-## Test execution by date
+## 2.6. Test execution by date
 ![TEst Execution by date](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION%20BY%20DATE.jpg)
 
-### 1.3 Definitions, Acronyms, and Abbreviations
+### 2.7. Definitions, Acronyms, and Abbreviations
 Abbreviation	Word
 M	Manager
 C	Customer
-### 1.1.2 Entry criteria defined
+### 2.8. Entry criteria defined
 
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :-------------------------------------------------------------:  |
@@ -284,7 +257,7 @@ C	Customer
 |Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
 
 
-## 1.1.3 Exit criteria defined
+## 2.9 Exit criteria defined
 ### New Account
 - T1    Customer Id - Customer ID is required
 * T2    Customer Id - Special character are not allowed
@@ -431,7 +404,7 @@ C	Customer
 + T109 Special characters are not allowed
 - T110 Description cannot be blank
 
-# 3.3 Functional validations
+# 2.10 Functional validations
 
 ### Balance Enquiry  
 
@@ -540,6 +513,6 @@ C	Customer
 #### Customer 
 - F49 If account no is invalid, System displays an error
 
-
+_____________________________________________________________________________________________________________________________________________________________________________
 
 
