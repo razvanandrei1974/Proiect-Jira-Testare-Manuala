@@ -210,9 +210,8 @@ The following elements are needed to be ready before the test execution phase be
 enter here what needs to be ready for the test execution to begin
 
 ## 2 Test Execution
-Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf)
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
-enter here bug titles
+- Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf) enter here bug titles
 
 
 ### 2.1. Definitions, Acronyms, and Abbreviations
