@@ -214,32 +214,29 @@ Test cases are executed on the created test Cycle summary: [Cycle Summary](https
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
 enter here bug titles
 
-## 2.1 Test Completion
-Exit criteria was evaluated and passed
-The traceability matrix was generated and can be found here:## Traceability Matrix
-[Traceability Matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx) 
 
-### 2.2. Test execution chart was generated, the final report shows.... -> describe the final report
-## Dasboard JIRA
-[Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf) 
-
-## 2.3.  Test Summary
-![Test Summary Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20SUMMARY.jpg)
-
-## 2.4. Test Metrics
-![Test Metrics Version 1.1](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
-
-## 2.5. Test Execution
-![Test Execution](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION.jpg)
-
-## 2.6. Test execution by date
-![TEst Execution by date](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20EXECUTION%20BY%20DATE.jpg)
-
-### 2.7. Definitions, Acronyms, and Abbreviations
+### 2.1. Definitions, Acronyms, and Abbreviations
 Abbreviation	Word
 M	Manager
 C	Customer
-### 2.8. Entry criteria defined
+
+### 2.1.1 Entry criteria defined
+Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+testing environment is up and running
+### 2.1.2. Exit criteria:
+90% of tests are passed
+no Critical issues have Open status
+update tests are 100% passed (update tests will not generate other new issues that impact the application)
+### 2.1.3. Risks:
+user data (banking related data, funds, transactions, etc) might be impacted with update tests
+stability risks (crashes, disconnects, etc)
+IE browser might have performance issues
+versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
+the web page pagination could be impacted when opened on mobile devices
+stress conditions might impact the web application
+new browser might not be supported
+
+## 2.2. Test Analisys
 
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :-------------------------------------------------------------:  |
@@ -256,8 +253,8 @@ C	Customer
 |Deposit|  Manager   |Manager: A manager can deposit money into any account. Usually done when cash is deposited at a bank branch.|
 |Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
 
+## 2.2.1.Test implementation
 
-## 2.9 Exit criteria defined
 ### New Account
 - T1    Customer Id - Customer ID is required
 * T2    Customer Id - Special character are not allowed
@@ -404,7 +401,7 @@ C	Customer
 + T109 Special characters are not allowed
 - T110 Description cannot be blank
 
-# 2.10 Functional validations
+# 2.3 Test execution
 
 ### Balance Enquiry  
 
@@ -512,6 +509,29 @@ C	Customer
 - F48 If account no is invalid, System displays an error
 #### Customer 
 - F49 If account no is invalid, System displays an error
+
+## 3.0.  Test closure
+- at least 95% of tests are passed
+* no Critical issues have Open status
+
+  # 3.1 Test deliverables
+
+ ### Test cases
+ [Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
+  Daily test summary report
+ - ![Daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
+  Traceability matrix
+ - [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx)
+  Test case results
+ - [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
+  Bugs report
+ - [Bugs report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
+  Test completion report
+ - ![Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
+  Schedule
+ - we have 10 days of testing
+ - we have 2000 regression tests
+ - in order to finish the regression run we would need to run an ~ of 35 tests/day
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
