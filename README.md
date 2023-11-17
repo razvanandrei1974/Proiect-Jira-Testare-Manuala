@@ -86,7 +86,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 1.8 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
 ### Daily Report 
-[Daily Report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
+
 
 1.9 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
@@ -202,7 +202,7 @@ The testing process will be executed based on the above requirements for the Dep
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
 Test cases: -> 
-The test cases with steps can be viewed here: [Test Cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
+The test cases with steps can be viewed here: [Test Cases]
 
 1.11 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
@@ -210,8 +210,8 @@ The following elements are needed to be ready before the test execution phase be
 enter here what needs to be ready for the test execution to begin
 
 ## 2 Test Execution
-- Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/RUT-TMTA12.pdf)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf) enter here bug titles
+- Test cases are executed on the created test Cycle summary: [Cycle Summary]
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs]() enter here bug titles
 
 
 ### 2.1. Definitions, Acronyms, and Abbreviations
@@ -516,17 +516,17 @@ new browser might not be supported
   # 3.1 Test deliverables
 
  ### Test cases
- [Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
+ [Test cases]
   Daily test summary report
- - ![Daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DAILY%20REPORT.jpg) 
+ - ![Daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc]
   Traceability matrix
- - [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_11_2023.xlsx)
+ - [Traceability matrix]
   Test case results
- - [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20CASES%20GURU99.pdf)
+ - [Test case results](
   Bugs report
- - [Bugs report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/BUG%20PDF.pdf)
+ - [Bugs report]
   Test completion report
- - ![Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20METRICS%201.jpg)
+ - ![Test completion report]
   Schedule
  - we have 10 days of testing
  - we have 2000 regression tests
