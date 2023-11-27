@@ -404,9 +404,10 @@ new browser might not be supported
 ## 3.0.  Test closure
 - at least 95% of tests are passed
 * no Critical issues have Open status
+  
 
   # 3.1 Test deliverables
-
+  
  ### Test cases
  [Test cases]
   Daily test summary report
