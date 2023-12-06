@@ -413,7 +413,8 @@ new browser might not be supported
   Traceability matrix
  - [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_12_2023.pdf)
   Test case results
- - [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(1)%20DASHBOARD.pdf)
+ - [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(2).pdf)
+ - ![Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(2).pdf)
     Test completion report
  - ![Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
   - we have 10 days of testing
