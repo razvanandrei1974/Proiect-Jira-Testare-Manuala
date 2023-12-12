@@ -1,17 +1,17 @@
 # :pushpin:	 # _Test Planing_ 
 
-# Guru99 Aplication 
+## :pushpin:	# Guru99 Aplication 
 
 ## :pushpin:	 ## Guru99 Bank Project
 
  
-## _Software request_
+## :pushpin:	 ## _Software request_
  
 1.3
  
 03/11/2023
 
-## Revision history
+## :pushpin:	 ## Revision history
 
 
 | Date | Description   | Author   | Comments |
@@ -20,25 +20,25 @@
 | 06.12.2023 | v1.1  | Ravan Ungar   | - |
 
 
-# :pushpin:	 # 1.Intro
+# :pushpin:	# :pushpin:	 # 1.Intro
 
-#### The Guru99 Bank project aims to provide net banking facility to its customers.
-#### This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
+#### :pushpin:	#### The Guru99 Bank project aims to provide net banking facility to its customers.
+#### :pushpin:	#### This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
-## Introduction
+## :pushpin:	## Introduction
 The Guru99 Bank project aims to provide net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
-### 1.1 Purpose
+### :pushpin:	### 1.1 Purpose
 The Purpose of this document is to outline the requirements for the Guru99 Banking website to be developed for Guru99 Tech. Pvt. Ltd. This document will be used by all stakeholders including developers and testers.
-### 1.2 Scope
+### :pushpin:	### 1.2 Scope
 The scope of this project is limited to the testing of the features described in the succeeding sections of this document.
 Non-functional testing like stress,performance is beyond scope of this project.
 Automation testing is beyond scope.
 Functional testing & external interfaces are in scope and need to be tested
 The banking site will be only compatible with Chrome version 27 and above
 
-# 1.3 Testing section
+# :pushpin:	# 1.3 Testing section
 ## 1.4 Test Planning
 The Test Plan is designed to describe all details of testing for the X module from the Guru99 application.
 
@@ -91,31 +91,31 @@ It will be done by generating periodic reports that reflect the current status o
 1.9 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
-## _Fund Transfer_
+## :paperclip:	## _Fund Transfer_
 -	Payers account no
 *	Payees account no
 +	Amount
 -	Submit
 *	Reset
 
-## _Change Password_
+## :paperclip:	## _Change Password_
 -	Old Password
 *	New Password
 +	Confirm Password
 -	Submit
 *	Reset
 
-## _Balance enquiry_
+## :paperclip:	## _Balance enquiry_
 -	Account No
 *	Submit
 +	Reset
 
-## _Mini Statement_
+## :paperclip:	## _Mini Statement_
 -	Account No
 *	Submit
 +	Reset
 
-## _Customized Statement_
+## :paperclip:	## _Customized Statement_
 -	Account No
 *	From Date
 +	To Date
@@ -124,7 +124,7 @@ The testing process will be executed based on the above requirements for the Dep
 +	Submit
 -	Reset
 
-## _New Customer_
+## :paperclip:	## _New Customer_
 -	Customer Name
 *	Gender
 +	Date of Birth
@@ -137,55 +137,55 @@ The testing process will be executed based on the above requirements for the Dep
 -	Submit
 *	Reset
 
-## _New Account_
+## :paperclip:	## _New Account_
 -	Customer Id
 *	Account Type
 +	Initial deposit
 -	Submit
 *	Reset
 
-##  _Deposit_
+## :paperclip:	##  _Deposit_
 -	Account Number
 *	Amount Deposit
 +	Description
 -	Submit
 *	Reset
 
-##  _Withdraw_
+## :paperclip:	##  _Withdraw_
 -	Account Number 
 *	Amount
 +	Description
 -	Submit
 *	Reset
 
-##  _Delete Customer_
+## :paperclip:	##  _Delete Customer_
 -	Customer Id
 *	Submit
 +	Reset
 
-##  _Edit Account_
+## :paperclip:	##  _Edit Account_
 -	Account Number
 *	Submit
 +	Reset
 
-## Form after submitting Edit Account
+## :paperclip:	## Form after submitting Edit Account
 -	Customer Id 
 *	Account Type (Drop Down - Saving or Current)
 +	Balance 
 -	Submit
 *	Reset
 
-##  _Delete Account_
+## :paperclip:	##  _Delete Account_
 -	Account Number
 *	Submit
 +	Reset
 
-##  _Edit Customer_
+## :paperclip:	##  _Edit Customer_
 -	Customer Id
 *	Submit
 +	Reset
 
-## Form after submitting Edit Customer
+## :paperclip:	## Form after submitting Edit Customer
 -	Customer Name 
 *	Gender 
 +	Date of Birth
@@ -209,7 +209,7 @@ The following elements are needed to be ready before the test execution phase be
 
 enter here what needs to be ready for the test execution to begin
 
-## 2 Test Execution
+## :paperclip:	## 2 Test Execution
 - Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
 
 ### 2.1. Definitions, Acronyms, and Abbreviations
