@@ -1,11 +1,11 @@
-# :pushpin:	 # _Test Planing_ 
+# :pushpin:	  _Test Planing_ 
 
-## :pushpin:	# Guru99 Aplication 
+## :pushpin:	 Guru99 Aplication 
 
-## :pushpin:	 ## Guru99 Bank Project
+## :pushpin:	 Guru99 Bank Project
 
  
-## :pushpin:	 ## _Software request_
+## :pushpin:	  _Software request_
  
 1.3
  
