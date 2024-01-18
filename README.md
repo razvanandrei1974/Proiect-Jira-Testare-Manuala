@@ -386,22 +386,14 @@ enter here what needs to be ready for the test execution to begin
 - Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
 
 ### 2.1. Entry criteria defined
-Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-testing environment is up and running
-### 2.2. Exit criteria:
-90% of tests are passed
-no Critical issues have Open status
-update tests are 100% passed (update tests will not generate other new issues that impact the application)
+Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing) testing environment is up and running ### 2.2. Exit criteria:
+83,87 % of tests are passed :white_check_mark:
+Three Critical issues have Open status update tests are 84 % passed (update tests will  generate other new issues that impact the application).
 ### 2.3. Risks:
-user data (banking related data, funds, transactions, etc) might be impacted with update tests
-stability risks (crashes, disconnects, etc)
-IE browser might have performance issues
-versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
-the web page pagination could be impacted when opened on mobile devices
-stress conditions might impact the web application
-new browser might not be supported
+User data (banking related data, funds, transactions, etc) might be impacted with update tests stability risks (crashes, disconnects, etc), IE browser might have performance issues versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are) the web page pagination could be impacted when opened on mobile devices stress conditions might impact the web application new browser might not be supported.
 
 ## 2.4. Test Analisys
+###   :heavy_check_mark: He table below highlights the menus proposed for testing, both from the Manager category and from the Customer category.
 
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :-------------------------------------------------------------:  |
