@@ -35,7 +35,7 @@ The Purpose of this document is to outline the requirements for the Guru99 Banki
 The scope of this project is limited to the testing of the features described in the succeeding sections of this document.
 Non-functional testing like stress,performance is beyond scope of this project.
 Automation testing is beyond scope.
-Functional testing & external interfaces are in scope and need to be tested
+Functional testing & external interfaces are in scope and need to be tested.
 The banking site will be only compatible with Chrome version 27 and above
 
 # :pushpin:	1.3 Testing section
