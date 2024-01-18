@@ -439,19 +439,19 @@ new browser might not be supported
   
   ### :heavy_check_mark: Traceability matrix
   [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_12_2023.pdf)
+
+  ## :heavy_check_mark:  Test completion report
+   [Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
  
+  ### :heavy_check_mark: We have 10 days of testing.
+  ### :heavy_check_mark: We have 2000 regression tests in order to finish the regression run we would need to run.
+  
   ## :heavy_check_mark: Test case results
   [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(2).pdf)
  - ![Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_1.jpg)
  - ![Dashboard2](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_2.jpg)
  - ![Dashboard3](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_3.jpg)
-   
-   ## :heavy_check_mark:  Test completion report
-   [Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
- 
-  ### :heavy_check_mark: We have 10 days of testing.
-  ### :heavy_check_mark: We have 2000 regression tests in order to finish the regression run we would need to run.
-
-_____________________________________________________________________________________________________________________________________________________________________________
+  
+  _____________________________________________________________________________________________________________________________________________________________________________
 
 
