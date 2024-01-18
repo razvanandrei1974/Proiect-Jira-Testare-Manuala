@@ -429,16 +429,19 @@ new browser might not be supported
 
   
 
-  # 3.1 Test deliverables
+  # :pushpin: 3.1 Test deliverables
   
  ### Test cases
  [Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Testcase%20pdf.pdf)
+  
   Daily test summary report
- - [Daily test summary report(number of tests ran today, % of them failed, passed, re-test, etc](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20metrics.pdf)
+ [Daily test summary report(number of tests ran today, % of them failed, passed, re-test, etc](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20metrics.pdf)
+  
   Traceability matrix
- - [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_12_2023.pdf)
+  [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_12_2023.pdf)
+ 
   Test case results
- - [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(2).pdf)
+  [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(2).pdf)
  - ![Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_1.jpg)
  - ![Dashboard2](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_2.jpg)
  - ![Dashboard3](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_3.jpg)
