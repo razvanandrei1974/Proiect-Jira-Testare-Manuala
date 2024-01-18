@@ -431,7 +431,7 @@ new browser might not be supported
 
   # :pushpin: 3.1 Test deliverables
   
- ### Test cases
+ ### :heavy_check_mark: Test cases
  [Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Testcase%20pdf.pdf)
   
  ### :heavy_check_mark: Daily test summary report
