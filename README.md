@@ -434,18 +434,19 @@ new browser might not be supported
  ### Test cases
  [Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Testcase%20pdf.pdf)
   
-  Daily test summary report
+ ### :heavy_check_mark: Daily test summary report
  [Daily test summary report(number of tests ran today, % of them failed, passed, re-test, etc](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20metrics.pdf)
   
-  Traceability matrix
+  ### :heavy_check_mark: Traceability matrix
   [Traceability matrix](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Forward%20Traceability_6_12_2023.pdf)
  
-  Test case results
+  ## :heavy_check_mark: Test case results
   [Test case results](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/UngarRazvan-TMTA12%20(2).pdf)
  - ![Dashboard](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_1.jpg)
  - ![Dashboard2](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_2.jpg)
  - ![Dashboard3](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_3.jpg)
-   ## Test completion report
+   
+   ## :heavy_check_mark:  Test completion report
  - ![Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
  
   ### :heavy_check_mark: We have 10 days of testing.
