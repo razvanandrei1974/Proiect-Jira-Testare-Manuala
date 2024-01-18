@@ -374,7 +374,8 @@ The testing process will be executed based on the above requirements for the Dep
 ### :pushpin: 1.10 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 Test design is a process that defines how testing has to be done. It involves the process of identifying the testing techniques, test scenarios, test cases, test data, and expected test results.
-[Test Cases]()_
+[Test Cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Jira%20TEST%20CASES%20COMPLETE.pdf)
+![Test cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Jira%20TEST%20CASES%20COMPLETE.pdf)_
 
 Test cases: -> 
 The test cases with steps can be viewed here: [Test Cases](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/Testcase%20pdf.pdf)
