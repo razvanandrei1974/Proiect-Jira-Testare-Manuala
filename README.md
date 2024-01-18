@@ -229,9 +229,15 @@ Test scope is a documented description of the boundaries, objectives, deliverabl
 #### Tests not in scope:
 1.1.5 Risks detected
 Project risks:
+### :no_entry: Critical Bugs - RUT-60, RUT-69, RUT-72 and RUT-74 impact the product launch because the page crashes.
+### :arrow_up_small: Medium Bugs - The RUT-55,RUT-61,RUT-63,RUT-64,RUT-65 and RUT-67 bugs can be fixed later.
+
 Product risks:
 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+- Delays in the delivery of the AUT for testing
+* Lack of technical knowledge on specific areas of the product
++ Lack of testing environments and/or data that effectively simulate real customer usage
 
 ### :pushpin: 1.8 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
