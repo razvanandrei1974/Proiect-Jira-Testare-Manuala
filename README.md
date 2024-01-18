@@ -22,29 +22,29 @@
 
 # :pushpin:	# 1.Intro
 
-#### :pushpin:	#### The Guru99 Bank project aims to provide net banking facility to its customers.
-#### :pushpin:	#### This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
+#### :pushpin:	The Guru99 Bank project aims to provide net banking facility to its customers.
+#### :pushpin:	This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
-## :pushpin:	## Introduction
+## :pushpin:	 Introduction
 The Guru99 Bank project aims to provide net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
-### :pushpin:	### 1.1 Purpose
+### :pushpin: 1.1 Purpose
 The Purpose of this document is to outline the requirements for the Guru99 Banking website to be developed for Guru99 Tech. Pvt. Ltd. This document will be used by all stakeholders including developers and testers.
-### :pushpin:	### 1.2 Scope
+### :pushpin:	 1.2 Scope
 The scope of this project is limited to the testing of the features described in the succeeding sections of this document.
 Non-functional testing like stress,performance is beyond scope of this project.
 Automation testing is beyond scope.
 Functional testing & external interfaces are in scope and need to be tested
 The banking site will be only compatible with Chrome version 27 and above
 
-# :pushpin:	# 1.3 Testing section
+# :pushpin:	1.3 Testing section
 ## 1.4 Test Planning
 The Test Plan is designed to describe all details of testing for the X module from the Guru99 application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
-1.5. # Specific Requirements
+## :pushpin: 1.5. Specific Requirements
 The Guru99 Bank will have 2 roles
 ### 1.	Manager
 ### 2.	Customer
