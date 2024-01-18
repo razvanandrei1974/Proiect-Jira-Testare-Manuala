@@ -122,7 +122,7 @@ The testing process will be executed based on the above requirements for the Dep
 +	Reset
 
 ## :paperclip:	## _Customized Statement_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data,for the correct operation of the menu "Customised Statement" , but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Account No
 *	From Date
 +	To Date
@@ -132,7 +132,7 @@ The testing process will be executed based on the above requirements for the Dep
 -	Reset
 
 ## :paperclip:	## _New Customer_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data ,for the correct operation of the menu "New Customer", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Customer Name
 *	Gender
 +	Date of Birth
@@ -146,7 +146,7 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	## _New Account_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data , for the correct operation of the menu "New Account", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Customer Id
 *	Account Type
 +	Initial deposit
@@ -154,7 +154,7 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	##  _Deposit_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Deposit", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Account Number
 *	Amount Deposit
 +	Description
@@ -162,7 +162,7 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	##  _Withdraw_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Withdraw", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Account Number 
 *	Amount
 +	Description
@@ -170,19 +170,19 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	##  _Delete Customer_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Delete Customer", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Customer Id
 *	Submit
 +	Reset
 
 ## :paperclip:	##  _Edit Account_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Edit Account", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Account Number
 *	Submit
 +	Reset
 
 ## :paperclip:	## Form after submitting Edit Account
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify after edit account, the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Edit Account", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Customer Id 
 *	Account Type (Drop Down - Saving or Current)
 +	Balance 
@@ -190,19 +190,19 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	##  _Delete Account_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Delete Account", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Account Number
 *	Submit
 +	Reset
 
 ## :paperclip:	##  _Edit Customer_
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Edit Customer", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Customer Id
 *	Submit
 +	Reset
 
 ## :paperclip:	## Form after submitting Edit Customer
-:black_nib: Verify the functionality of the fields specified below by entering valid data , but we also check the functionality of the "Submit" and "Reset" buttons.
+:black_nib: Verify, after edit customer, the functionality of the fields specified below by entering valid data, for the correct operation of the menu "Edit customer", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Customer Name 
 *	Gender 
 +	Date of Birth
@@ -214,6 +214,8 @@ The testing process will be executed based on the above requirements for the Dep
 +	Email Id 
 -	Submit
 *	Reset
+
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:  
 
 1.10 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
