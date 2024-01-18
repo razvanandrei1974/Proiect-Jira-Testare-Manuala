@@ -447,7 +447,7 @@ new browser might not be supported
  - ![Dashboard3](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_3.jpg)
    
    ## :heavy_check_mark:  Test completion report
- - ![Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
+   [Test completion report](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
  
   ### :heavy_check_mark: We have 10 days of testing.
   ### :heavy_check_mark: We have 2000 regression tests in order to finish the regression run we would need to run.
