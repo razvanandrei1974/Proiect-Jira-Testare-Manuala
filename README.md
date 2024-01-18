@@ -231,19 +231,14 @@ enter here what needs to be ready for the test execution to begin
 ## :paperclip:	## 2 Test Execution
 - Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
 
-### 2.1. Definitions, Acronyms, and Abbreviations
-Abbreviation	Word
-M	Manager
-C	Customer
-
-### 2.1.1 Entry criteria defined
+### 2.1. Entry criteria defined
 Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
 testing environment is up and running
-### 2.1.2. Exit criteria:
+### 2.2. Exit criteria:
 90% of tests are passed
 no Critical issues have Open status
 update tests are 100% passed (update tests will not generate other new issues that impact the application)
-### 2.1.3. Risks:
+### 2.3. Risks:
 user data (banking related data, funds, transactions, etc) might be impacted with update tests
 stability risks (crashes, disconnects, etc)
 IE browser might have performance issues
@@ -252,7 +247,7 @@ the web page pagination could be impacted when opened on mobile devices
 stress conditions might impact the web application
 new browser might not be supported
 
-## 2.2. Test Analisys
+## 2.4. Test Analisys
 
 | Module Name | Aplicabile Rules   | Description   |
 | :-----: | :---: | :-------------------------------------------------------------:  |
@@ -269,7 +264,7 @@ new browser might not be supported
 |Deposit|  Manager   |Manager: A manager can deposit money into any account. Usually done when cash is deposited at a bank branch.|
 |Withdrawal|  Manager   |Manager: A manager can withdraw money from any account. Usually done when cash is withdrawn at a bank branch.|
 
-## 2.2.1.Test implementation
+## 2.4.1.Test implementation
 
 ### New Account
 - T1    Customer Id - Customer ID is required
