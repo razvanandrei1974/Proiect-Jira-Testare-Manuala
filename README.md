@@ -416,13 +416,13 @@ User data (banking related data, funds, transactions, etc) might be impacted wit
 
 
 ## 3.0.  Test closure
-- at least 83,87 % of tests are passed
+- at least 83,87 % of tests are passed :white_check_mark:
   
 ## :pushpin: Conclusions:
-* 62 test cases were created.
-+ 52 testcases received "Pass"
-- 10 test cases were declared "Bug" of which RUT-60, RUT-69, RUT-72 and RUT-74 impact the product launch because the page crashes.
-* The RUT-55,RUT-61,RUT-63,RUT-64,RUT-65 and RUT-67 bugs can be fixed later.
+* 62 test cases were created. :eight_spoked_asterisk:
++ 52 testcases received "Pass" :white_check_mark:
+- 10 test cases were declared "Bug" of which RUT-60, RUT-69, RUT-72 and RUT-74 impact the product launch because the page crashes. :heavy_exclamation_mark:
+* The RUT-55,RUT-61,RUT-63,RUT-64,RUT-65 and RUT-67 bugs can be fixed later. :heavy_exclamation_mark:
 + For testing, an Epic, 2 Stories and 14 Tasks were created.
 - For the product launch, I recommend fixing all the bugs.
 * After the fixing all the bugs execution of a "Regretion Testing".
