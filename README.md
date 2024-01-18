@@ -414,8 +414,19 @@ new browser might not be supported
 
 
 ## 3.0.  Test closure
-- at least 95% of tests are passed
-* no Critical issues have Open status
+- at least 83,87 % of tests are passed
+  
+## :pushpin: Conclusions:
+* 62 test cases were created.
++ 52 testcases received "Pass"
+- 10 test cases were declared "Bug" of which RUT-60, RUT-69, RUT-72 and RUT-74 impact the product launch because the page crashes.
+* The RUT-55,RUT-61,RUT-63,RUT-64,RUT-65 and RUT-67 bugs can be fixed later.
++ For testing, an Epic, 2 Stories and 14 Tasks were created.
+- For the product launch, I recommend fixing all the bugs.
+* After the fixing all the bugs execution of a "Regretion Testing".
++ Both from the Manager menu and from the Customer menu, all the tests specified in the Test Plan were executed.
+- For future projects, I recommend that the menus and fields necessary to access them have a better functionality.
+
   
 
   # 3.1 Test deliverables
