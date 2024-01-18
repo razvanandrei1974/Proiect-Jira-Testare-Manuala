@@ -122,6 +122,7 @@ The testing process will be executed based on the above requirements for the Dep
 +	Reset
 
 ## :paperclip:	## _Customized Statement_
+:black_nib: Verify the functionality of the fields specified below by entering valid data in "Account No"; "From Data"; "To Date"; "Minimum Transaction Value"; "Number of Transaction", but we also check the functionality of the "Submit" and "Reset" buttons.
 -	Account No
 *	From Date
 +	To Date
