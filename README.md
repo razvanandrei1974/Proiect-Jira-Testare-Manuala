@@ -75,8 +75,10 @@ Following features/modules will be available to these 2 different roles
 
 
 ### :pushpin: 1.7 Test scope
-Tests in scope:
-Tests not in scope:
+#### Tests in scope:
+
+
+#### Tests not in scope:
 1.1.5 Risks detected
 Project risks:
 Product risks:
@@ -92,6 +94,7 @@ It will be done by generating periodic reports that reflect the current status o
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 ## :paperclip:	## _Fund Transfer_
+  :black_nib: We check the functionality of the fields below by entering valid data according to the test plan.
 -	Payers account no
 *	Payees account no
 +	Amount
@@ -99,6 +102,7 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	## _Change Password_
+   :black_nib: We check if the password change menu works, we also check the functionality of the submit and reset buttons
 -	Old Password
 *	New Password
 +	Confirm Password
