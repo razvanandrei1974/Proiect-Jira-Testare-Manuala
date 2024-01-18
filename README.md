@@ -102,7 +102,7 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	## _Change Password_
-   :black_nib: We check if the password change menu works, we also check the functionality of the submit and reset buttons
+   :black_nib: Verify if the password change menu works, we also check the functionality of the submit and reset buttons
 -	Old Password
 *	New Password
 +	Confirm Password
@@ -110,6 +110,7 @@ The testing process will be executed based on the above requirements for the Dep
 *	Reset
 
 ## :paperclip:	## _Balance enquiry_
+:black_nib: Verify if the "Account Number" field works correctly and we also check the functionality of the "Submit" and "Reset" buttons if the "Account Number" field accepts the account number.
 -	Account No
 *	Submit
 +	Reset
