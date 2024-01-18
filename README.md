@@ -382,8 +382,7 @@ The test cases with steps can be viewed here: [Test Cases](https://github.com/ra
 
 ### :pushpin: 1.11 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
-
-enter here what needs to be ready for the test execution to begin
+Enter here what needs to be ready for the test execution to begin.
 
 ## :paperclip:	## 2 Test Execution
 - Test cases are executed on the created test Cycle summary: [Cycle Summary](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/test%20summary%2006.12.2023.pdf)
