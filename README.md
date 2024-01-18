@@ -116,6 +116,7 @@ The testing process will be executed based on the above requirements for the Dep
 +	Reset
 
 ## :paperclip:	## _Mini Statement_
+:black_nib:  Verify if the "Mimi Statement" field works correctly and we also check the functionality of the "Submit" and "Reset" buttons if the "Account Number" field accepts the account number.
 -	Account No
 *	Submit
 +	Reset
