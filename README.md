@@ -224,7 +224,7 @@ Following features/modules will be available to these 2 different roles
 ### :pushpin: 1.7 Test scope
 #### Tests in scope:
 Test scope is a documented description of the boundaries, objectives, deliverables, and criteria that guide the testing process. In essence, it defines the “what,” “why,” and “how” of your software testing endeavors.
-
+![Test in Scope](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/TEST%20IN%20SCOPE.webp)
 
 #### Tests not in scope:
 1.1.5 Risks detected
