@@ -67,14 +67,14 @@ Following features/modules will be available to these 2 different roles
 |Customized Statement|  | 
 |Login & Logout |   |
 
-### 1.6 Roles assigned to the project and persons allocated
+### :pushpin: 1.6 Roles assigned to the project and persons allocated
 | Date | Description   | Author   | Comments |
 | :-----: | :---: | :---: | :---: |
 |03.11.2023 | Test Plan for version 1.1   | -   | Draft test plan |
 | 06.11.2023 | v1.1  | Ravan Ungar   | - |
 
 
-### 1.7 Test scope
+### :pushpin: 1.7 Test scope
 Tests in scope:
 Tests not in scope:
 1.1.5 Risks detected
@@ -83,7 +83,7 @@ Product risks:
 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
-### 1.8 Test Monitoring and Control
+### :pushpin: 1.8 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
 ### Daily Report 
 
