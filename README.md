@@ -455,5 +455,5 @@ User data (banking related data, funds, transactions, etc) might be impacted wit
  - ![Dashboard2](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_2.jpg)
  - ![Dashboard3](https://github.com/razvanandrei1974/Proiect-Jira-/blob/main/DASHBOARD_Page_3.jpg)
   
-  _____________________________________________________________________________________________________________________________________________________________________________
+ _____________________________________________________________________________________________________________________________________________________________________________
 
